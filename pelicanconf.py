@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Animesh Bhadra'
-SITENAME = u'Pelican Blog'
+SITENAME = u'Archer Imagine'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
 
