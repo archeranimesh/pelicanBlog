@@ -4,7 +4,7 @@ Modified: 2017-04-14 21:30
 Category: Pelican
 Tags: pelican, publishing
 Slug: configure-github-custom-domain
-Authors: Animesh Bhadra
+Author: Animesh Bhadra
 Summary: How to configure a Pelican blog using Github Pages and a Custom domain.
 
 I have mentioned some of the links in references, have visited all of the below and few more, but the configuration is much simpler.
