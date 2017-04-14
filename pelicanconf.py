@@ -33,3 +33,10 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# My Modifications.
+# To Ignore the cache when modifying the meta data in files.
+LOAD_CONTENT_CACHE = False
+
+#Static Path for Images.
+STATIC_PATHS = ['images']
