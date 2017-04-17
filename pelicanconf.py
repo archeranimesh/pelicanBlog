@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Animesh Bhadra'
 SITENAME = u'Archer Imagine'
-SITEURL = ''
+
 
 PATH = 'content'
 
@@ -26,9 +26,15 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/archeranimesh'),
+          ('linkedin-square', 'https://www.linkedin.com/in/animeshkbhadra/'),
+          ('facebook','https://www.facebook.com/animeshkbhadra'),
+          ('quora', 'https://www.quora.com/profile/Animesh-Bhadra'),
+          ('reddit', 'https://www.reddit.com/user/archerimagine/'),
+          ('twitter', 'https://twitter.com/animeshkbhadra')
+          )
 
+TWITTER_USERNAME = 'animeshkbhadra'
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -40,3 +46,14 @@ LOAD_CONTENT_CACHE = False
 
 #Static Path for Images.
 STATIC_PATHS = ['images']
+
+#In place of having content all over the content folder,
+# moving it to a centralized place.
+ARTICLE_PATHS = ['articles',]
+ARTICLE_URL = 'articles/{slug}.html'
+ARTICLE_SAVE_AS = 'articles/{slug}.html'
+
+OUTPUT_RETENTION = [".hg", ".git", "CNAME"]
+
+
+
