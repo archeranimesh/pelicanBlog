@@ -10,6 +10,7 @@ Summary: How to configure a Pelican blog using Github Pages and a Custom domain.
 I have mentioned some of the links in references, have visited all of the below and few more, but the configuration is much simpler.
 
 The process can be broken into 2 broad steps.
+
 1. Configure your Github repo  
 2. Configure the DNS at [GoDaddy](https://in.godaddy.com/)  
 
