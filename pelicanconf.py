@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
+import os
+import sys
+sys.path.append(os.curdir)
+from elegantConfig import *
 AUTHOR = u'Animesh Bhadra'
 SITENAME = u'Archer Imagine'
 
@@ -66,3 +69,22 @@ MARKDOWN = {
 
 THEME = 'themes/elegant'
 
+PLUGIN_PATHS = ['plugin']
+PLUGINS = ['sitemap', 'tipue_search']
+
+SITEMAP = {
+    'exclude': ['tag/', 'category/'],
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search', '404'))

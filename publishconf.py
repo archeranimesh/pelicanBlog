@@ -23,3 +23,4 @@ DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "archerimagine"
 GOOGLE_ANALYTICS = "UA-97386090-1"
+MAILCHIMP_FORM_ACTION="//archerimagine.us15.list-manage.com/subscribe/post?u=e95cf93fc00f17a742b9480eb&amp;id=b690f10a78"
