@@ -28,6 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
+SOCIAL_PROFILE_LABEL = u'Stay in Touch'
 # Social widget
 SOCIAL = (('github', 'https://github.com/archeranimesh'),
           ('linkedin-square', 'https://www.linkedin.com/in/animeshkbhadra/'),

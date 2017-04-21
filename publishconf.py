@@ -20,7 +20,8 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
-
+COMMENTS_INTRO = u'So what do you think? Did I miss something? Is any part unclear? Leave your comments below.'
 DISQUS_SITENAME = "archerimagine"
+
 GOOGLE_ANALYTICS = "UA-97386090-1"
 MAILCHIMP_FORM_ACTION="//archerimagine.us15.list-manage.com/subscribe/post?u=e95cf93fc00f17a742b9480eb&amp;id=b690f10a78"
