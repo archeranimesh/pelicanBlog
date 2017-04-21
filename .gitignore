@@ -7,4 +7,4 @@
 *.py[cod]
 output
 *.sublime-*
-plugin/
+plugin
