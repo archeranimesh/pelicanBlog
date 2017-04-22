@@ -64,6 +64,8 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
+        'markdown.extensions.toc' :{'permalink' : 'true'},
+
     },
     'output_format': 'html5',
 }
@@ -71,7 +73,7 @@ MARKDOWN = {
 THEME = 'themes/elegant'
 
 PLUGIN_PATHS = ['plugin']
-PLUGINS = ['sitemap', 'tipue_search']
+PLUGINS = ['sitemap', 'tipue_search', 'extract_toc']
 
 SITEMAP = {
     'exclude': ['tag/', 'category/'],
