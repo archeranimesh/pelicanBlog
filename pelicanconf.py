@@ -7,6 +7,7 @@ sys.path.append(os.curdir)
 from elegantConfig import *
 AUTHOR = u'Animesh Bhadra'
 SITENAME = u'Archer Imagine'
+SITESUBTITLE = u"Code: From Theory to Practical."
 
 
 PATH = 'content'
