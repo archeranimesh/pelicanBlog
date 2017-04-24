@@ -22,7 +22,11 @@ LANDING_PAGE_ABOUT = {
 				<li>Python</li> <li>Android</li> <li>Design Patterns</li> <li>Object Oriented 
 				Programming and Design</li> </ol> </p> <p> Programming is a mix of engineering and 
 				art, so listening music, photography are some of my hobbies which try to keep the 
-				art in me alive.</p></div>"""
+				art in me alive.</p>
+				<p>
+				You're never going to win big if you're only going to minimize your losses.
+				</p>
+				</div>"""
 }
 
 PROJECTS = [
