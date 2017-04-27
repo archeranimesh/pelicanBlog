@@ -1,6 +1,6 @@
 Title: Pelican HelloWorld using pelican-quickstart
 Date: 2017-04-27 23:26:43
-Modified: 2017-04-28 01:12:50
+Modified: 2017-04-28 01:15:09
 Category: Pelican
 Tags: pelican
 Slug: helloworld-pelican-quickstart
@@ -94,7 +94,7 @@ Done. Your new project is available at /home/username/myWork/mySampleBlog
 
 Our blogs boilerplate is available. Here is the folder structure.
 
-![pelicanFolderStructure]({filename}../images/pelicanFolderStructure.png "pelican folder structure")  
+![pelicanFolderStructure]({filename}../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
 
 ## References ##
 
