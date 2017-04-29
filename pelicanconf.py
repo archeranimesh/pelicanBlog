@@ -9,6 +9,8 @@ AUTHOR = u'Animesh Bhadra'
 SITENAME = u'Archer Imagine'
 SITESUBTITLE = u"Anyone can do my job, but no one can be me. Harvey"
 
+#added only for elegent theme, which does not process the favicon with this.
+USE_SHORTCUT_ICONS=True
 
 PATH = 'content'
 
@@ -50,20 +52,9 @@ DEFAULT_PAGINATION = 10
 LOAD_CONTENT_CACHE = False
 
 #Static Path for Images.
-STATIC_PATHS = ['extra', 'images']
+STATIC_PATHS = ['images', 'theme/images']
 
-EXTRA_PATH_METADATA = {
-  'extra/favicon.ico': {'path': 'favicon.ico'},
-  'extra/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
-  'extra/apple-touch-icon-57x57.png': {'path': 'apple-touch-icon-57x57.png'},
-  'extra/apple-touch-icon-72x72.png': {'path': 'apple-touch-icon-72x72.png'},
-  'extra/apple-touch-icon-76x76.png': {'path': 'apple-touch-icon-76x76.png'},
-  'extra/apple-touch-icon-114x114.png': {'path': 'apple-touch-icon-114x114.png'},
-  'extra/apple-touch-icon-120x120.png': {'path': 'apple-touch-icon-120x120.png'},
-  'extra/apple-touch-icon-144x144.png': {'path': 'apple-touch-icon-144x144.png'},
-  'extra/apple-touch-icon-152x152.png': {'path': 'apple-touch-icon-152x152.png'},
-  'extra/apple-touch-icon-180x180.png': {'path': 'apple-touch-icon-180x180.png'}
-}
+
 
 #In place of having content all over the content folder,
 # moving it to a centralized place.
