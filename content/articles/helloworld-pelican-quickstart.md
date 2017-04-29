@@ -1,6 +1,6 @@
 Title: Pelican HelloWorld using pelican-quickstart
 Date: 2017-04-27 23:26:43
-Modified: 2017-04-28 01:15:09
+Modified: 2017-04-28 01:21:00
 Category: Pelican
 Tags: pelican
 Slug: helloworld-pelican-quickstart
@@ -101,3 +101,4 @@ Our blogs boilerplate is available. Here is the folder structure.
 * [How I setup Pelican ](http://terriyu.info/blog/posts/2013/07/pelican-setup/ "How did the command option help")
 * [List of tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones "List of tz database time zones")
 * [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "List of ISO 639-1 codes")
+* [pelican-quickstart.py](https://gist.github.com/almet/1140861)
