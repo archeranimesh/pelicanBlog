@@ -1,17 +1,19 @@
 Title: Publishing your blog to github pages.
 Date: 2017-04-30 18:44:09
-Modified: 2017-04-30 22:10:54
+Modified: 2017-05-02 23:09:01
 Category: Pelican
 Tags: pelican
 Slug: publishing-blog-github-pages
 Author: Animesh Bhadra
 subtitle: Live to the World
-Summary: In this post we will try to make your small blog visible to the world with the help of github pages. This is the most easiest and free way to put your work for the world to see.
+Summary: In this post we will try to make your small blog visible to the world with the help of github pages. This is the easiest and free way to put your work for the world to see.
 keywords: Pelican Blog, Github Pages.
 
-We have set the basic blog, though it may not look great because of the theme which we are using, but we will change those. Presently we will focus on taking this blog for the world to see. [Github Pages](https://pages.github.com/ "GitHub Pages") is the way to publish your blog on to the www.
+[TOC]
 
-We will have 2 repository for doing this.
+We have set the basic blog, though it may not look great because of the theme which we are using, but we will change those. Presently we will focus on taking this blog for the world to see. [Github Pages](https://pages.github.com/ "GitHub Pages") is the way to publish your blog on to the WWW.
+
+We will have 2 repositories for doing this.
 
 * One repository is for the source, which is our blog content.
 * Second repository is for the generated files in the `output` folder.
@@ -24,11 +26,11 @@ The git should be locally configured. Kindly follow the steps mention in this pa
 
 ## The first Repository ##
 
-We should now create out first Repository onto github. Click on the `+` icon which shows this drop down.
+We should now create our first Repository onto github. Click on the `+` icon which shows this drop down.
 
 ![Create repo]({filename}../images/githubAccount/createRepo.png "The create repo link")
 
-and click on the option `New Repository ` as shown above.
+And click on the option `New Repository ` as shown above.
 
 This will open up a page with looks like this
 
@@ -38,9 +40,9 @@ Fill in the repository name which you want to name, and write a little `Descript
 
 `Initialize this repository with a README`
 
-Because we already have a folder in our local system to check-in we can leave this box unchecked. In future if need we can create a `README` file manually.
+Since we already have a folder in our local system to check-in we can leave this box unchecked. In future if need we can create a `README` file manually.
 
-Once you click on the `Create Repository ` link, you will taken to this page, with these as a content.
+Once you click on the `Create Repository ` link, you will be taken to this page, with these as a content.
 
 ![Github Push Commands]({filename}../images/githubAccount/commandsGitHub2Push.png "The Github push commands")
 
@@ -106,7 +108,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ## Pushing the `output ` folder ##
 
-The `output ` folder is out actual blog, so this is a little different then the previous way of pushing code to github.
+The `output ` folder is out actual blog, so this is a little different from the previous way of pushing code to github.
 
 Please follow along to create this special repository.
 
@@ -129,10 +131,10 @@ Please follow along to create this special repository.
         + `git push -u origin master`
             * The above will make the `output ` as a submodule
 
-With this we have completed our part part of the blog series. With this series of blog post we are able to achieve this.
+With this we have completed our part of the blog series. With this series of blog post we are able to achieve this.
 
 * Understand what is pelican blog and how to use it with github pages.
-* How to setup the Anaconda environment for pelican development.
+* How to set up the Anaconda environment for pelican development.
 * Understood what `pelican-quickstart ` command does.
 * Understood the basic commands to generate the pelican blog
 * Understood the basic folder structure of the pelican blog

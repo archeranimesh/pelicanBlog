@@ -1,6 +1,6 @@
 Title: Pelican commands to generate the first blog.
 Date: 2017-04-29 22:15:05
-Modified: 2017-04-29 23:12:16
+Modified: 2017-05-02 23:08:47
 Category: Pelican
 Tags: pelican
 Slug: pelican-commands-to-generate-first-pelican-blog-post
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: Beyond HelloWorld
 Summary: In this post we will check some of pelican commands, and how it helps us to generate a blog post.
 keywords: pelican commands, pelican blog post.
+
+[TOC]
 
 We have our boilerplate pelican blog available, now we have still not seen the magic of pelican. In this post we will see our blog coming to life.
 

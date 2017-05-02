@@ -1,6 +1,6 @@
 Title: Pelican HelloWorld using pelican-quickstart
 Date: 2017-04-27 23:26:43
-Modified: 2017-04-29 22:09:10
+Modified: 2017-05-02 23:08:35
 Category: Pelican
 Tags: pelican
 Slug: helloworld-pelican-quickstart
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: base configuration
 Summary: We all want to hit the ground rolling, and what better way then to start with a Pelican HelloWorld. pelican-quickstart is a great command to start a basic pelican blogs with most of the defaults working out of the box.
 keywords: pelican, helloworld, pelican-quickstart
+
+[TOC]
 
 Pelican makes it very easy to make the ground rolling ASAP. Pelican provides a great command `pelican-quickstart`, which asks a few questions to you and makes a boilerplate blog ready in a few seconds. We will go through the entire process explaining each option is details.
 

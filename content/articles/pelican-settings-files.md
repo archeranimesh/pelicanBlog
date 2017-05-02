@@ -1,6 +1,6 @@
 Title: Understanding the Pelican Settings files.
 Date: 2017-04-30 17:07:03
-Modified: 2017-04-30 18:11:34
+Modified: 2017-05-02 23:08:56
 Category: Pelican
 Tags: pelican
 Slug: pelican-settings-files
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: Enhancing Pelican
 Summary: By default pelican comes with 2 settings files, pelicanconf.py and publishconf.py. In this post we try to understand the meaning of these to files and some basic settings.
 keywords: pelicanconf.py, publishconf.py
+
+[TOC]
 
 The basic work flow in pelican blogging is to first generate content, verify it locally using a [localhost:8000](http://localhost:8000/), and when everything is fine will publish it.
 

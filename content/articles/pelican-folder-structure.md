@@ -1,6 +1,6 @@
 Title: Pelican Folder Structure
 Date: 2017-04-29 22:10:10
-Modified: 2017-04-30 17:06:34
+Modified: 2017-05-02 23:08:52
 Category: Pelican
 Tags: pelican
 Slug: pelican-folder-structure
@@ -9,6 +9,7 @@ subtitle: Creating Magic
 Summary: In this post we will see some important files and folder structure of the pelican blog, and understand the significance of all these files in our blogs to come. 
 keywords: Pelican folder structure
 
+[TOC]
 
 We will be able to extract the full juice of pelican once we understand the building blocks of the pelican blog. Folder structure and some of the files form the basic of this. We will understand some of this files and folder use in this post.
 
