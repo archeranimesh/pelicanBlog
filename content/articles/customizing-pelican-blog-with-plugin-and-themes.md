@@ -1,6 +1,6 @@
 Title: Customizing Pelican blog with the help of Plugin and themes
 Date: 2017-05-03 23:05:51
-Modified: 2017-05-03 23:29:27
+Modified: 2017-05-03 23:50:44
 Category: Pelican
 Tags: pelican
 Slug: customizing-pelican-blog-with-plugin-and-themes
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: Eternal Customization
 Summary: Pelican blog has a active community of developers who are always at the look out to modify and enhance the power of Pelican blog. Pelican plugin and Themes are one way of doing the same.
 keywords: Pelican themes, Pelican plugins, Flex Vs Elegant vs BootStrap3 Themes.
+
+[TOC]
 
 Pelican Blogs gives its user the full power to customize to the want of the user. We have been using the default themes and default setting provided by Pelican with not much customization and the results are also quite good.
 
@@ -36,5 +38,50 @@ When we are deciding on which themes to choose for the blog, broadly the working
 * [Elegant Why it is the best Pelican theme ](http://oncrashreboot.com/elegant-best-pelican-theme-features "Elegant Why it is the best Pelican theme")
 * [BootStrap3](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3 "BootStrap3")
 
-There are many others, which you are free to explore, but for my blog I had considered these 3 options.
+There are many others, which you are free to explore, but for my blog I had considered these 3 options. Each one has its own pros and cons, the choice was very difficult between these 3, and in future I might even consider jumping ships to the other themes.
+
+Lets discuss some outline of the above 3 themes 
+
+* [Flex: Responsive Pelican theme ](https://blog.alexandrevicenzi.com/flex-pelican-theme.html "Flex: Responsive Pelican theme ")
+    - This has out of the box integration with a lot of plugins including [AddThis](http://www.addthis.com/ "AddThis"), which is not available for any other themes.
+    - This also has support for Google AdSense, which again is missing in most of the plugin.
+    - Actively maintained, the last check-in on its Github repository was on Apr 24, 2017.
+    - Tipue_Search is also on the way, there is a open issue on the repository, [Search #49](https://github.com/alexandrevicenzi/Flex/issues/49 "Tipue Search ")
+        + This facility of search is the only reason I dropped [Flex ](https://blog.alexandrevicenzi.com/flex-pelican-theme.html "Flex: Responsive Pelican theme ").
+* [BootStrap3](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3 "BootStrap3")
+    - This is a full hackable implementation of BootStrap3, and will try to use this Themes, once I get my hand dirty enough with the modern CSS and Web Technologies.
+* [Elegant Why it is the best Pelican theme ](http://oncrashreboot.com/elegant-best-pelican-theme-features "Elegant Why it is the best Pelican theme")
+    - I chose this theme just for its minimalistic design and search feature.
+    - It has an integration with MailChimp.
+    - This is not an actively managed project, the last commit on this repository was on Sep 8, 2014, which is good 3 years ago.
+    - We can use and modify this theme for the our satisfaction if a bug is hampering our development.
+
+
+We have decided on our Themes, the Plugins required for this themes are as below.
+
+* sitemap
+* tipue_search
+* extract_toc
+* neighbors
+
+The standard features and enhancements already available
+
+* Disqus
+* Google Analytics
+* MailChimp Integration.
+* Custom 404 Page.
+* Collapsible Comments
+* Page and Article Subtitle.
+
+
+We will not try to see the integration of all the above feature with the Elegant themes.
+
+
+## Reference ##
+
+* [Elegant Why it is the best Pelican theme ](http://oncrashreboot.com/elegant-best-pelican-theme-features "Elegant Why it is the best Pelican theme")
+* [BootStrap3](https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3 "BootStrap3")
+* [Flex: Responsive Pelican theme ](https://blog.alexandrevicenzi.com/flex-pelican-theme.html "Flex: Responsive Pelican theme ")
+* [pelican-themes ](https://github.com/getpelican/pelican-themes "Pelican Themes")
+* [pelican-plugins ](https://github.com/getpelican/pelican-plugins "Pelican Plugins ")
 
