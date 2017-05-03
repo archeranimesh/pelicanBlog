@@ -13,8 +13,7 @@ LANDING_PAGE_ABOUT = {
 				in our life, paused and wondered what was the process to reach there. 
 				We never found that answer.</p> <p> 
 				This blog content is hosted on <a href="https://github.com/archeranimesh" 
-				title="My Github profile" itemprop="url"> <span itemprop="nickname">archeranimesh
-				</span> </a>, in an attempt to have a version control on the blog which helps 
+				title="My Github profile" itemprop="url"> archeranimesh</a>, in an attempt to have a version control on the blog which helps 
 				in finding the history of this blog. If this blog is accepted by the programming 
 				faternity in future, you can always checkout the history of this blog and try to 
 				copy and paste the approach for your own learning. </p> <p> The programming languages 
