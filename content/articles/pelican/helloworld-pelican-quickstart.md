@@ -1,6 +1,6 @@
 Title: Pelican HelloWorld using pelican-quickstart
 Date: 2017-04-27 23:26:43
-Modified: 2017-05-02 23:08:35
+Modified: 2017-05-06 23:37:06
 Category: Pelican
 Tags: pelican
 Slug: helloworld-pelican-quickstart
@@ -49,7 +49,7 @@ Just execute this commands and it asks you these series of questions, which we w
 
 The options shown after executing the `pelican-quickstart` are as below.
 
-![pelican quickstart options]({filename}../images/pelicanQuickStart/pelicanQuickStartoptions.png "pelican quickstart options")
+![pelican quickstart options]({filename}../../images/pelicanQuickStart/pelicanQuickStartoptions.png "pelican quickstart options")
 
 We will discuss each and every options and there usage, we can always choose the default shown in capital letter, `{Y|n}`.
 
@@ -96,7 +96,7 @@ Done. Your new project is available at /home/username/myWork/mySampleBlog
 
 Our blogs boilerplate is available. Here is the folder structure.
 
-![pelicanFolderStructure]({filename}../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
+![pelicanFolderStructure]({filename}../../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
 
 We have still not seen how the blog will look like, we will divulge into this in the next post, with all the pelican commands which is extremely important to get the full juice out of pelican.
 

@@ -59,8 +59,8 @@ STATIC_PATHS = ['images', 'theme/images']
 #In place of having content all over the content folder,
 # moving it to a centralized place.
 ARTICLE_PATHS = ['articles',]
-ARTICLE_URL = 'articles/{slug}.html'
-ARTICLE_SAVE_AS = 'articles/{slug}.html'
+ARTICLE_URL = 'articles/{category}/{slug}.html'
+ARTICLE_SAVE_AS = 'articles/{category}/{slug}.html'
 
 OUTPUT_RETENTION = [".hg", ".git", "CNAME"]
 

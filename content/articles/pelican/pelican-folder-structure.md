@@ -1,6 +1,6 @@
 Title: Pelican Folder Structure
 Date: 2017-04-29 22:10:10
-Modified: 2017-05-02 23:08:52
+Modified: 2017-05-06 23:39:18
 Category: Pelican
 Tags: pelican
 Slug: pelican-folder-structure
@@ -15,7 +15,7 @@ We will be able to extract the full juice of pelican once we understand the buil
 
 After the first blog post if we give `make clean ` command we will see a folder structure just like this. This will have a empty `output ` folder.
 
-![pelicanFolderStructure]({filename}../images/pelicanFolder/PelicanFolderStructure.png "pelican folder structure")  
+![pelicanFolderStructure]({filename}../../images/pelicanFolder/PelicanFolderStructure.png "pelican folder structure")  
 
 We will understand the use of these folder and a proper way of managing your content.
 
@@ -43,7 +43,7 @@ Now create your second post inside this and publish the content based on the com
 
 Now if you launch the [localhost:8000](http://localhost:8000/), and click on the article title, you will see no difference but if you see on the url bar, we still see that our post is without the `article ` folder structure. We did not wanted this. Have a look
 
-![url without article ]({filename}../images/pelicanFolder/URLwithoutarticles.png "URL without articles.")
+![url without article ]({filename}../../images/pelicanFolder/URLwithoutarticles.png "URL without articles.")
 
 In order to get the proper URL in the address bar we have to change somethings in the `pelicanconf.py`, we will explain what is the purpose of this file in a short file for not just add these 3 line into that config.
 
@@ -55,7 +55,7 @@ ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 With is configuration in the config folder, just generate the blog with the commands already learned and then check the [localhost:8000](http://localhost:8000/). It should look like this.
 
-![url with article ]({filename}../images/pelicanFolder/URLwitharticles.png "URL with articles.")
+![url with article ]({filename}../../images/pelicanFolder/URLwitharticles.png "URL with articles.")
 
 Now we have a proper folder structure.
 
@@ -106,7 +106,7 @@ Done: Processed 1 article, 0 drafts, 2 pages and 0 hidden pages in 0.20 seconds.
 
 Which means that the `pages` are generated. When we launch the [localhost:8000](http://localhost:8000/). we will see that the `About` and `Contact` menu like this
 
-![About and Contact Page ]({filename}../images/pelicanFolder/staticPages.png "About and Contact Page.")
+![About and Contact Page ]({filename}../../images/pelicanFolder/staticPages.png "About and Contact Page.")
 
 We can modify these pages with the information which you want to furnish.
 
@@ -123,7 +123,7 @@ Now we can copy any image inside this folder and try to link it into one of our 
 Now create a link to this file inside the already existing blog post by the help of `link` of markdown, here is a sample.
 
 ````md
-![Hello World 1]({filename}../images/helloWorldPelicanPost.png "Hello World 2")
+![Hello World 1]({filename}../../images/helloWorldPelicanPost.png "Hello World 2")
 ````
 
 We should understand some details about the above piece of code.

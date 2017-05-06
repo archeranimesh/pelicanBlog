@@ -1,6 +1,6 @@
 Title: Pelican commands to generate the first blog.
 Date: 2017-04-29 22:15:05
-Modified: 2017-05-02 23:08:47
+Modified: 2017-05-06 23:38:45
 Category: Pelican
 Tags: pelican
 Slug: pelican-commands-to-generate-first-pelican-blog-post
@@ -17,7 +17,7 @@ We have our boilerplate pelican blog available, now we have still not seen the m
 
 We have see the folder structure here
 
-![pelicanFolderStructure]({filename}../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
+![pelicanFolderStructure]({filename}../../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
 
 Now we will first execute some commands and see what happens with this boilerplate. Remember to be in the `pelican1` environment. We can do this by.
 
@@ -59,7 +59,7 @@ python -m pelican.server
 
 Once you execute the above commands we can see the output on browser on this path [localhost:8000](http://localhost:8000/) and it will look something like this
 
-![Pelican First Post]({filename}../images/pelicanCommands/firstPostPelican.png "The first post from pelican")
+![Pelican First Post]({filename}../../images/pelicanCommands/firstPostPelican.png "The first post from pelican")
 
 Nothing fancy here, but we will some content with some link and a default theme. It is petty good for being a boilerplate.
 
@@ -99,7 +99,7 @@ python -m pelican.server
 
 Again check the output on the browser at [localhost:8000](http://localhost:8000/). Now this time the output is different and it look like this.
 
-![Pelican Hello World Post]({filename}../images/pelicanCommands/helloWorldPelicanPost.png "The HelloWorld post from pelican")
+![Pelican Hello World Post]({filename}../../images/pelicanCommands/helloWorldPelicanPost.png "The HelloWorld post from pelican")
 
 The area surrounded in ellipse are new. This shows us the power of pelican, we do not have to bother how the content is presented on screen, we have to only concentrate on writing content.
 

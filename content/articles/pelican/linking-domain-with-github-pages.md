@@ -1,6 +1,6 @@
 Title: Configuring Github pages with Custom Domain
 Date: 2017-05-02 23:22:29
-Modified: 2017-05-02 23:43:56
+Modified: 2017-05-06 23:38:22
 Category: Pelican
 Tags: pelican
 Slug: linking-domain-with-github-pages
@@ -37,11 +37,11 @@ Once we have a Github Pages URL, we have to configure a CNAME in this repository
 
 On the repository in [Github](https://github.com/), you will see something like this.
 
-![GitHub Settings]({filename}../images/launchSite/Settings.png "GitHub Setting")
+![GitHub Settings]({filename}../../images/launchSite/Settings.png "GitHub Setting")
 
 In the above Click on the `Settings`, Scroll down you will see something like this.
 
-![GitHub Pages Settings]({filename}../images/launchSite/gitHubPages.png "GitHub Pages Setting")
+![GitHub Pages Settings]({filename}../../images/launchSite/gitHubPages.png "GitHub Pages Setting")
 
 Enter the domain you have purchased from [GoDaddy](https://in.godaddy.com/).
 
@@ -56,16 +56,16 @@ The real issue in all the links is that it shows the old UI of [GoDaddy](https:/
 
 1. Go to the account setting page, which mostly will like in this [link](https://mya.godaddy.com/?pc=urlargs).
 2. The link will look like this.
-3. ![Godaddy Accounts Settings]({filename}../images/launchSite/accountSettingsGodaddy.png "Godaddy Accounts Settings")
+3. ![Godaddy Accounts Settings]({filename}../../images/launchSite/accountSettingsGodaddy.png "Godaddy Accounts Settings")
 4. Click on the `+` Symbols in Front of Domain, and Click on the `Manage DNS ` Link
-5. ![Godaddy DNS Management]({filename}../images/launchSite/manageDNS.png "Godaddy DNS Management")
+5. ![Godaddy DNS Management]({filename}../../images/launchSite/manageDNS.png "Godaddy DNS Management")
 6. The link will show a lot of `Records`, go to the end of the `Records`, and click on the link **ADD**
-7. ![Godaddy Add Options]({filename}../images/launchSite/AddOption.png "Godaddy Add Options")
+7. ![Godaddy Add Options]({filename}../../images/launchSite/AddOption.png "Godaddy Add Options")
 8. From the above option we have to add 3 entries.
 9. This is how all the 3 would look like after adding.
 
-![Godaddy A Options]({filename}../images/launchSite/AOptions.png "Godaddy A Options")
-![Godaddy www Options]({filename}../images/launchSite/wwwOption.png "Godaddy www Options")
+![Godaddy A Options]({filename}../../images/launchSite/AOptions.png "Godaddy A Options")
+![Godaddy www Options]({filename}../../images/launchSite/wwwOption.png "Godaddy www Options")
 
 Now you can launch and check your desired domain. Kindly wait 48 hrs for these changes to reflect, do not try to configure multiple times, if it does not work even after 48 hours kindly search for help, till then take a coffee break and have a nice time out of this screen.
 
@@ -79,7 +79,7 @@ When we are doing the above process, even after 24 hours, when you launch your w
 The website might launch for some times and sometimes you might get any one of the above 2 errors. Kindly check this in the **Manage DNS** page.
 
 * We had added two **A** Names pointing to the GitHub URL as shown below.
-![Godaddy A Options]({filename}../images/launchSite/AOptions.png "Godaddy A Options")
+![Godaddy A Options]({filename}../../images/launchSite/AOptions.png "Godaddy A Options")
 
 Check if you have any other **A** Names in addition to the above two, if you have, kindly delete that. The detailed issue can be read [GoDaddy domain (randomly) not resolving to GitHub Pages](https://serverfault.com/questions/743327/godaddy-domain-randomly-not-resolving-to-github-pages)
 

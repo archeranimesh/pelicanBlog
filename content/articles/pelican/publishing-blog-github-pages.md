@@ -1,6 +1,6 @@
 Title: Publishing your blog to github pages.
 Date: 2017-04-30 18:44:09
-Modified: 2017-05-02 23:09:01
+Modified: 2017-05-06 23:39:58
 Category: Pelican
 Tags: pelican
 Slug: publishing-blog-github-pages
@@ -28,13 +28,13 @@ The git should be locally configured. Kindly follow the steps mention in this pa
 
 We should now create our first Repository onto github. Click on the `+` icon which shows this drop down.
 
-![Create repo]({filename}../images/githubAccount/createRepo.png "The create repo link")
+![Create repo]({filename}../../images/githubAccount/createRepo.png "The create repo link")
 
 And click on the option `New Repository ` as shown above.
 
 This will open up a page with looks like this
 
-![Create repo]({filename}../images/githubAccount/createRepoForm.png "The create repo form")
+![Create repo]({filename}../../images/githubAccount/createRepoForm.png "The create repo form")
 
 Fill in the repository name which you want to name, and write a little `Description ` also do not click on the check-box which read
 
@@ -44,7 +44,7 @@ Since we already have a folder in our local system to check-in we can leave this
 
 Once you click on the `Create Repository ` link, you will be taken to this page, with these as a content.
 
-![Github Push Commands]({filename}../images/githubAccount/commandsGitHub2Push.png "The Github push commands")
+![Github Push Commands]({filename}../../images/githubAccount/commandsGitHub2Push.png "The Github push commands")
 
 
 This is the symbol of empty repository which is created and now we can push our local code to this folder.
