@@ -1,6 +1,6 @@
 Title: Publishing your blog to github pages.
 Date: 2017-04-30 18:44:09
-Modified: 2017-05-06 23:39:58
+Modified: 2017-05-07 00:01:11
 Category: Pelican
 Tags: pelican
 Slug: publishing-blog-github-pages
@@ -20,7 +20,7 @@ We will have 2 repositories for doing this.
 
 
 ## Prerequisite ##
-We all should have a [GitHub](https://github.com/) account, if you have then continue else go to [GitHub](https://github.com/) and create an account. The process is very straight forward, just follow the instruction on the website.
+We all should have a [GitHub](https://github.com/) account, if you have then continue, else go to [GitHub](https://github.com/) and create an account. The process is very straight forward, just follow the instruction on the website.
 
 The git should be locally configured. Kindly follow the steps mention in this page [Setting your email in Git](https://help.github.com/articles/setting-your-email-in-git/).
 
@@ -40,7 +40,7 @@ Fill in the repository name which you want to name, and write a little `Descript
 
 `Initialize this repository with a README`
 
-Since we already have a folder in our local system to check-in we can leave this box unchecked. In future if need we can create a `README` file manually.
+Since we already have a folder in our local system, to check-in we can leave this box unchecked. In future if need we can create a `README` file manually.
 
 Once you click on the `Create Repository ` link, you will be taken to this page, with these as a content.
 
@@ -58,7 +58,7 @@ Go to the root of the folder, where your blog is kept.
 * `cd ~/mySampleBlog/`
     - Go to the root of the directory where the blog post are kept
 * `git init`
-    - This command initializes a empty repository in the same folder.
+    - This command initializes an empty repository in the same folder.
 * Create a file named `.gitignore` in the same folder.
 * Copy the below content to the `.gitignore` file.
 
@@ -122,7 +122,7 @@ Please follow along to create this special repository.
         + `git commit -m "first commit"`
         + `git remote add origin https://github.com/pelicanBlog/pelicanBlog.github.io.git`
         + `git push -u origin master`
-        + After the above command, just launch this url in your browser, `https://username.github.io/`, just change `username` with your username.
+        + After the above command, just launch this URL in your browser, `https://username.github.io/`, just change `username` with your username.
     - Since the original source folder we create with `output ` directory mentioned in `.gitignore `, we can now add this repository as a submodule in that repository, to provide a link between both the source and the `output`
         + Go to the root of the blog content, in this case `cd ~/mySampleBlog`
         + `git submodule add -f https://github.com/pelicanBlog/pelicanBlog.github.io.git output`

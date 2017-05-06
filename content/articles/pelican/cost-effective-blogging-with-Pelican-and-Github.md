@@ -1,6 +1,6 @@
 Title: Cost effective blogging with Pelican and Github
 Date: 2017-04-25 23:20:03
-Modified: 2017-05-02 23:07:42
+Modified: 2017-05-06 23:43:23
 Category: Pelican
 Tags: pelican
 Slug: cost-effective-blogging-with-Pelican-and-Github
@@ -23,12 +23,12 @@ There are already a lot of literature present behind this, just wanted to summar
 * **Cost:-** This was the deciding factor for me, because of using a static website, this complete website can be hosted and deployed by just registering a domain name with a provider. I do not have to go for any hosting services etc.
 * **Easy of Writing Content:-** I wanted to write my content using just [Markdown](https://daringfireball.net/projects/markdown/), as i have grown comfortable writing in markdown. With using a static blog this was possible.
 * **Hosting:-** We can serve these static HTML pages practically from any place, be it [Github](https://github.com/), [Amazon S3](https://aws.amazon.com/s3/), [Dropbox](https://www.dropbox.com/) or any other place which can serve static HTML pages. I have chosen Github just to save the cost.
-* **Easy workFlow:-** The work flow is very simple when deploying with static blogs, just right you content in markdown, generate HTML, push your changes to github and that's it. Your content is not available online. You can even go crazy you cam automate the whole thing other than writing content.
+* **Easy workflow:-** The work flow is very simple when deploying with static blogs, just right you content in markdown, generate HTML, push your changes to github and that's it. Your content is not available online. You can even go crazy you cam automate the whole thing other than writing content.
 
 The above three are the main reason for choosing static blogs, but there could be many more valid reason for choosing static blogs. Most of the reason for me was personal in nature so you can also choose accordingly.
 
 ## Why Pelican? ##
-Once the approach to make this blog as static was finalized, the next big question came was which technology to choose, [Pelican ](https://blog.getpelican.com/) or [Jerkll ](https://jekyllrb.com/). There as already many comparison already available among these, but the only reason for me to choose pelican was because it uses python and jinja. In some near future I want to fully customize my blog with the knowledge of these two.
+Once the approach to make this blog as static was finalized, the next big question came was which technology to choose, [Pelican ](https://blog.getpelican.com/) or [Jekyll ](https://jekyllrb.com/). There as already many comparison already available among these, but the only reason for me to choose pelican was because it uses python and jinja. In some near future I want to fully customize my blog with the knowledge of these two.
 
 ## Why Github? ##
 The final decision to be taken before starting this blog was to finalize the hosting provider. We have already mentioned some popular choice are
@@ -44,7 +44,7 @@ Once all the above 3 moral questions were answered, setting up the blogs was eas
 
 ## Collated Blog post. ##
 
-* [How to setup Anaconda Python environment for Pelican Blog.]({filename}python-setup-for-pelican-blog.md)
+* [How to set up Anaconda Python environment for Pelican Blog.]({filename}python-setup-for-pelican-blog.md)
 
 
 ## Reference ##

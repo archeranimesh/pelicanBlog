@@ -1,12 +1,12 @@
 Title: How to setup Anaconda Python environment for Pelican Blog.
 Date: 2017-04-26 22:39:03
-Modified: 2017-04-26 23:50:52
+Modified: 2017-05-07 00:03:25
 Category: Pelican
 Tags: pelican
 Slug: python-setup-for-pelican-blog
 Author: Animesh Bhadra
 subtitle: Using Conda.
-Summary: Anaconda is a well know distribution of Python, supporting both python 2 and 3. We can setup a exclusive environment for Pelican blog using conda.
+Summary: Anaconda is a well known distribution of Python, supporting both python 2 and 3. We can set up an exclusive environment for Pelican blog using conda.
 keywords: Conda, Anaconda, Python, Pelican, Envs.
 
 [TOC]
@@ -20,11 +20,11 @@ Pelican is a python package, so we can have multiple option to install pelican. 
 * Installation using VirtualEnv.
     - This approach is already mentioned in official documentation of [pelican](http://docs.getpelican.com/en/stable/install.html "Installing Pelican")
 * Installation using Conda.
-    - By now you could have understood that we will use Conda to install pelican. This is because Anaconda is already a pre-packaged installation of very well know python package in both version 2 and 3. In future I will will update this page if I wrote about Anaconda installation, for now refer any documents on the google search for installation.
+    - By now you could have understood that we will use Conda to install pelican. This is because Anaconda is already a prepackaged installation of very well know python package in both version 2 and 3. In future, I will update this page if I wrote about Anaconda installation, for now refer any documents on the google search for installation.
 
 ### Configure Anaconda for Pelican Blog ###
 
-The first thing we have to do is to create a environment using the python version 2. This can be done by this command.
+The first thing we have to do is to create an environment using the python version 2. This can be done by this command.
 
 ````
 conda create -n pelican1 python=2
@@ -38,7 +38,7 @@ We can see the list of environment in the system by using.
 conda info --envs
 ````
 
-Which will provide an output like this.
+Which will provide, an output like this.
 
 ````
 pelican1                 /home/username/anaconda3/envs/pelican1
@@ -55,11 +55,11 @@ We can activate the `pelican1` by using this command.
 source activate pelican1
 ````
 
-Now we have an environment which we can used for pelican development. The reason for this environment creation is to have a separate environment for experimentation with pelican, if anything goes wrong we do not disturb already existing programs.
+Now we have an environment which we can use for pelican development. The reason for this environment creation is to have a separate environment for experimentation with pelican, if anything goes wrong we do not disturb already existing programs.
 
 ### Configure Pelican Environment for Blog ###
 
-Once we have the environment we have install few packages in this environment. The first is to install PiP to install other package. Install Pip by using.
+Once we have the environment, we have to install few packages in this environment. The first is to install PiP to install other package. Install Pip by using.
 
 ````
 conda install pip

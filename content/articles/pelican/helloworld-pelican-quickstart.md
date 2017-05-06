@@ -1,6 +1,6 @@
 Title: Pelican HelloWorld using pelican-quickstart
 Date: 2017-04-27 23:26:43
-Modified: 2017-05-06 23:37:06
+Modified: 2017-05-06 23:49:40
 Category: Pelican
 Tags: pelican
 Slug: helloworld-pelican-quickstart
@@ -15,7 +15,7 @@ Pelican makes it very easy to make the ground rolling ASAP. Pelican provides a g
 
 ## Activate Python environment ##
 
-We had setup a separate python anaconda environment in our previous [post]({filename}python-setup-for-pelican-blog.md) now is the time to active the environment, we can do that by using a simple command.
+We had set up a separate python anaconda environment in our previous [post]({filename}python-setup-for-pelican-blog.md) now is the time to active the environment, we can do that by using a simple command.
 
 ````shell
 source activate pelican1
@@ -23,19 +23,19 @@ source activate pelican1
 
 It will activate the `pelican1` environment, and we can identify it by check the terminal prompt which will change to `(pelican1)`.
 
-Once the work is done we can deactivate the same with a simple command.
+Once the work is done, we can deactivate the same with a simple command.
 
 ````shell
 source deactivate pelican1
 ````
 
-All the above command will work for linux and Mac, kindly check the windows equivalent of the same.
+All the above command will work for Linux and Mac, kindly check the windows equivalent of the same.
 
 ## pelican-quickstart ##
 
-Now we are ready to divulge in the world of pelican. Pelican has a ready to bake command to setup the basic boilerplate for the blog. The command is called
+Now we are ready to divulge in the world of pelican. Pelican has a ready to bake command to set up the basic boilerplate for the blog. The command is called
 
-Before executing the below commands just create a directory where you want your blog files to be stored.
+Before executing the below commands, just create a directory where you want your blog files to be stored.
 
 ````shell
 mkdir ~/myBlogDirectory
@@ -51,20 +51,20 @@ The options shown after executing the `pelican-quickstart` are as below.
 
 ![pelican quickstart options]({filename}../../images/pelicanQuickStart/pelicanQuickStartoptions.png "pelican quickstart options")
 
-We will discuss each and every options and there usage, we can always choose the default shown in capital letter, `{Y|n}`.
+We will discuss each and every option and their usage, we can always choose the default shown in capital letter, `{Y|n}`.
 
-* Where do you want to create your new Web site ? [.]
+* Where do you want to create your new Website ? [.]
     - Most probably we will keep the default as we are already in that directory, if not you can specify the path `/home/pathtomyblog`
 * What will be the title of the blog?
     - Provide a suitable title to your blog, do not worry even if you want to change it latter we can change it. 
-* Who will be the author of this Web site ?
-    - Just provide any name you want whose name should be present as a author on the blog post, it can be your name also.
-* What will be the default language  of this Web site ? [en]
-    - The default choice is `english`, else you can give any language format mentioned in ISO 639-1 Language Codes, the list can be found [ISO Language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "ISO Language codes")
-* Do you want to specify a URL prefix? e.g., http://example.com   (Y/n)
+* Who will be the author of this Website ?
+    - Just provide any name you want whose name should be present as an author on the blog post, it can be your name as well.
+* What will be the default language of this Website ? [en]
+    - The default choice is `English`, else you can give any language format mentioned in ISO 639-1 Language Codes, the list can be found [ISO Language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "ISO Language codes")
+* Do you want to specify a URL prefix? e.g., http://example.com (Y/n)
     - If you already have purchased a domain give the domain name as shown in the example, else continue with `n`, we can later fill the domain name.
 * Do you want to enable article pagination? (Y/n)
-    - We can go with the default of having pagination, which means how many post of a the blogs will be displayed in one page, the choice of this is in the next question.
+    - We can go with the default of having pagination, which means how many posts of the blogs will be displayed in one page, the choice of this is in the next question.
         + How many articles per page do you want? [10] 
             * The default choice is `10`, for the time being keep it that way.
 * What is your time zone? [Europe/Paris]
@@ -76,9 +76,9 @@ We will discuss each and every options and there usage, we can always choose the
 * Do you want to upload your website using FTP? (y/N)
     - If we had an FTP site where we could upload, just choose the default and say `n`
 * Do you want to upload your website using SSH? (y/N)
-    - If your hosting uses SSH, for our use case we will choose `N`, which is the default.
+    - If you are hosting uses SSH, for our use case we will choose `N`, which is the default.
 * Do you want to upload your website using Dropbox? (y/N)
-    - We can also use dropbox to upload out static files, but for this, we will try some other time, for now choose the default which is `N`.
+    - We can also use Dropbox to upload our static files, but for this, we will try some other time, for now choose the default which is `N`.
 * Do you want to upload your website using S3? (y/N)
     - We also have the facility of choosing amazon S3 for our site hosting, for now not needed chose `N`
 * Do you want to upload your website using Rackspace Cloud Files? (y/N) 

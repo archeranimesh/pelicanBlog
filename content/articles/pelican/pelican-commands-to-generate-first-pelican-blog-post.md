@@ -1,12 +1,12 @@
 Title: Pelican commands to generate the first blog.
 Date: 2017-04-29 22:15:05
-Modified: 2017-05-06 23:38:45
+Modified: 2017-05-06 23:52:35
 Category: Pelican
 Tags: pelican
 Slug: pelican-commands-to-generate-first-pelican-blog-post
 Author: Animesh Bhadra
 subtitle: Beyond HelloWorld
-Summary: In this post we will check some of pelican commands, and how it helps us to generate a blog post.
+Summary: In this post we will check some pelican commands, and how it helps us to generate a blog post.
 keywords: pelican commands, pelican blog post.
 
 [TOC]
@@ -15,7 +15,7 @@ We have our boilerplate pelican blog available, now we have still not seen the m
 
 ## First Pelican Blog ##
 
-We have see the folder structure here
+We have seen the folder structure here
 
 ![pelicanFolderStructure]({filename}../../images/pelicanQuickStart/pelicanFolderStructure.png "pelican folder structure")  
 
@@ -39,7 +39,7 @@ WARNING: No valid files found in content.
 Done: Processed 0 articles, 0 drafts, 0 pages and 0 hidden pages in 0.12 seconds.
 ````
 
-It clearly warn us about no valid files found in **content**, as we have not added any post to the directory. If you see inside the `output` folder, we will see some content in that namely these files
+It clearly warns us about no valid files found in **content**, as we have not added any post to the directory. If you see inside the `output` folder, we will see some content in that namely these files
 
 ````shell
 archives.html

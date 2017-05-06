@@ -1,6 +1,6 @@
 Title: Understanding the Pelican Settings files.
 Date: 2017-04-30 17:07:03
-Modified: 2017-05-02 23:08:56
+Modified: 2017-05-06 23:58:42
 Category: Pelican
 Tags: pelican
 Slug: pelican-settings-files
@@ -18,7 +18,7 @@ Pelican comes with two settings files to separate these 2 process. These two fil
 * `pelicanconf.py`
 * `publishconf.py`
 
-Lets check what is the use of these 2 files, and how to manipulate these files to get the most out of pelican.
+Let's check what is the use of these 2 files, and how to manipulate these files to get the most out of pelican.
 
 These setting files are mostly passed to the templates associated with the themes to generate the site, all these settings are some parameters to these templates.
 
@@ -26,7 +26,7 @@ These setting files are mostly passed to the templates associated with the theme
 
 We had used the `pelican-quickstart` to generate this blog, when we use this command, we get a pre-configured `pelicanconf.py` and a `publishconf.py` files. This have the bare basic configuration to be used based on the questions we answered on the options.
 
-These files basically contains the settings identifier for the pelican blog, all the setting identifiers are in all-caps, and the values numbers (5, 20, etc.), booleans (True, False, None, etc.), dictionaries, or tuples should not be enclosed in quotation marks.
+These files basically contains the setting's identifier for the pelican blog, all the setting identifiers are in all-caps, and the values numbers (5, 20, etc.), Boolean (True, False, None, etc.), dictionaries, or tuples should not be enclosed in quotation marks.
 
 `pelicanconf.py` is used to generate the site locally and tested over [localhost:8000](http://localhost:8000/). The basic `pelicanconf.py` would look like this.
 
@@ -80,21 +80,21 @@ If you remember correctly some of the settings value we had provided during the 
 * `SITENAME` 
     - This is the Name of the site which we provided.
 * `SITEURL`
-    - Since we still do not have domain name registered, we had kept this empty, and also it make sense to keep this empty for `localhost` testing.
+    - Since we still do not have domain name registered, we had kept this empty, and also it makes sense to keep this empty for `localhost` testing.
 * `PATH`
     - `content ` where we write our blog is the default path set.
 * `TIMEZONE`
-    - This we had entered during the initial process, and in future if we want to change this we can change this settings.
+    - This we had entered during the initial process, and in future if we want to change this we can change these settings.
 * `DEFAULT_LANG`
     - This was also entered during the `pelican-quickstart` process.
 * `FEEDS_*`
-    - All the `FEEDS_*` related settings are empty because we have still not configured the RSS feeds settings, this we will change in future.
+    - All the `FEEDS_*` related settings are empty because we have still not configured the RSS feeds settings, this we will change in the future.
 * `ARTICLE_*`
     - This is the settings which we modified for keeping the path of the post into one folder.
 * `LINKS`
-    - This is a tuple of tuple, with each entry showing a links which you want provide in you blog.
+    - This is a tuple of tuple, with each entry showing a link which you want provide in your blog.
 * `SOCIAL`
-    - This is also a tuple of tuple, were each entry is meant to point to a name of a social network say `Facebook` and the link to your profile.
+    - This is also a tuple of tuple, where each entry is meant to point to a name of a social network say `Facebook` and the link to your profile.
 * `DEFAULT_PAGINATION`
     - This is a number showing how many blogs should be listed on the front page. Some Themes use this setting for some other purposes.
 
@@ -141,7 +141,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 This file, basically build on top of the `pelicanconf.py`, as we can see from this line, `from pelicanconf import *`. What this means is all the configuration from `pelicancongf.py` is taken into consideration along with some specific configuration which is required for just publishing.
 
-If you see this setting most of them are empty which we will fill one by one as we make progress in our blog, but from the structure you might get an idea that this file pertains to its integraton with the `DISQUS` comment system, and the `GOOGLE_ANALYTICS` code. We will see the use of this code once we integrate these feature into our blog.
+If you see this setting most of them are empty which we will fill one by one as we make progress in our blog, but from the structure you might get an idea that this file pertains to its integration with the `DISQUS` comment system, and the `GOOGLE_ANALYTICS` code. We will see the use of this code once we integrate these feature into our blog.
 
 ## Reference ##
 
