@@ -1,6 +1,6 @@
 Title: Customizing Pelican blog with the help of Plugin and themes
 Date: 2017-05-03 23:05:51
-Modified: 2017-05-05 22:55:47
+Modified: 2017-05-07 22:56:29
 Category: Pelican
 Tags: pelican
 Slug: customizing-pelican-blog-with-plugin-and-themes
@@ -17,10 +17,10 @@ Enhancing the present blog further will require us to use certain Plugins and Th
 
 * [pelican-plugins](https://github.com/getpelican/pelican-plugins "Pelican Plugins ")
     - This is the repository for the plugins.
-    - `git clone https://github.com/getpelican/pelican-plugins.git plugins`
+    - `git clone --recursive https://github.com/getpelican/pelican-plugins.git plugins`
 * [pelican-themes ](https://github.com/getpelican/pelican-themes "Pelican Themes")
     - This is the themes repository.
-    - `git clone https://github.com/getpelican/pelican-themes.git themes`
+    - `git clone --recursive https://github.com/getpelican/pelican-themes.git themes`
 
 
 ## Plugins Vs Themes ##
