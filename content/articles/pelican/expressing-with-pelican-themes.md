@@ -1,6 +1,6 @@
 Title: Expressing the content with Pelican Themes.
 Date: 2017-05-07 22:35:15
-Modified: 2017-05-09 22:49:04
+Modified: 2017-05-09 23:38:17
 Category: Pelican
 Tags: pelican
 Slug: expressing-with-pelican-themes
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: Expand Horizon
 Summary: We will customize of the very popular themes, Elegant, and make it to suit our need and also integrate with the plugins required for Elegant to work.
 keywords: Elegant Theme, Pelican Themes, Pelican Plugins.
+
+[TOC]
 
 We have already discussed about Pelican Themes and Plugins in this [blog]({filename}customizing-pelican-blog-with-plugin-and-themes.md "Customizing Pelican Blog with plugin and themes"). 
 
@@ -44,9 +46,9 @@ PLUGIN_PATHS = ['plugin']   # Name of the directory where plugin are kept.
 PLUGINS = ['sitemap']       # Name of the particular plugin inside the directory.
 ````
 
-In the above code sample, we can see we have integrated the `sitemap` plugin, and as per the [documentationn](https://github.com/getpelican/pelican-plugins/tree/master/sitemap "Sitemap Plugin "), this generates a Sitemap which we generally submit it to some Webmaster tools. 
+In the above code sample, we can see we have integrated the `sitemap` plugin, and as per the [documentation](https://github.com/getpelican/pelican-plugins/tree/master/sitemap "Sitemap Plugin "), this generates a Sitemap which we generally submit it to some Webmaster tools. 
 
-Likewise if we want to integrate any other `plugins`, we have just add it to the list variable `PLUGINS` along with the settings required for that plugins defined in its documentation.
+Likewise, if we want to integrate any other `plugins`, we have just add it to the list variable `PLUGINS` along with the settings required for that plugins defined in its documentation.
 
 
 
