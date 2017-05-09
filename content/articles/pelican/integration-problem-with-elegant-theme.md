@@ -1,6 +1,6 @@
 Title: Problem Faced when integrating with Elegant Themes.
 Date: 2017-05-09 22:55:40
-Modified: 2017-05-09 23:37:29
+Modified: 2017-05-09 23:41:19
 Category: Pelican
 Tags: pelican
 Slug: integration-problem-with-elegant-theme
@@ -118,6 +118,8 @@ MARKDOWN = {
 
 * [Elegant ](http://oncrashreboot.com/elegant-best-pelican-theme-features "Elegant theme")
     - Kindly read this documentation for other configuration which gives more flexibility in terms of the themes like Article Subtitle, Add License to your Site etc.
+* [pelicanconf of oncrashreboot blog](https://github.com/talha131/onCrashReboot/blob/master/pelicanconf.py)
+    - Visit this configuration file for any doubts on the setting of elegant theme.
 * [Favicon documentation ](http://oncrashreboot.com/elegant-best-pelican-theme-features#favicon-and-speed-dial-icon "Favicon Integration Elegant")
 * [Tipue Search plugin ](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search. "Tipue Search plugin ")
 * [Tipue search return undefined url ](https://github.com/talha131/pelican-elegant/issues/147 "Tipue search return undefined url").
