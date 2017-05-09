@@ -1,6 +1,6 @@
 Title: Home Page feature for Elegant Theme
 Date: 2017-05-09 23:53:05
-Modified: 2017-05-10 00:08:36
+Modified: 2017-05-10 00:15:37
 Category: Pelican
 Tags: pelican
 Slug: home-page-features-elegant-theme
@@ -8,6 +8,8 @@ Author: Animesh Bhadra
 subtitle: Home Coming  
 Summary: Elegant has a nice feature called the Home Page, which provides a About Me combined with information from GitHub on the project someone is working.
 keywords: Home Pages, About Me.
+
+[TOC]
 
 Elegant has a nice feature called the Home Page, which provides a About Me combined with information from GitHub on the project someone is working. These feature are again controlled by a configuration.
 
