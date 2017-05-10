@@ -1,6 +1,6 @@
 Title: Problem Faced when integrating with Elegant Themes.
 Date: 2017-05-09 22:55:40
-Modified: 2017-05-09 23:41:19
+Modified: 2017-05-10 22:42:42
 Category: Pelican
 Tags: pelican
 Slug: integration-problem-with-elegant-theme
@@ -112,6 +112,16 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
+````
+
+## Next and Previous Articles. ##
+
+When we read the documentation of [Elegant Next and Previous Articles](http://oncrashreboot.com/elegant-best-pelican-theme-features#next-and-previous-articles), it clearly states that we do not require any additional plugins for this feature, but it does not work out of the box.
+
+We have to integrate the `neighbors` plugins and then it works. Now we will have these in our `pelicanconf.py`
+
+````python
+PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors']
 ````
 
 ## References ##
