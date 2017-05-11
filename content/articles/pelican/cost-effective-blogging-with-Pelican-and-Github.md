@@ -1,6 +1,6 @@
 Title: Cost effective blogging with Pelican and Github
 Date: 2017-04-25 23:20:03
-Modified: 2017-05-06 23:43:23
+Modified: 2017-05-12 00:24:48
 Category: Pelican
 Tags: pelican
 Slug: cost-effective-blogging-with-Pelican-and-Github
@@ -44,7 +44,19 @@ Once all the above 3 moral questions were answered, setting up the blogs was eas
 
 ## Collated Blog post. ##
 
-* [How to set up Anaconda Python environment for Pelican Blog.]({filename}python-setup-for-pelican-blog.md)
+* [How to set up Anaconda Python environment for Pelican Blog.]({filename}python-setup-for-pelican-blog.md "How to set up Anaconda Python environment for Pelican Blog.")
+* [Pelican HelloWorld using pelican-quickstart ]({filename}helloworld-pelican-quickstart.md "Pelican HelloWorld using pelican-quickstart" )
+* [Pelican Folder Structure ]({filename}pelican-folder-structure.md "Pelican Folder Structure" )
+* [Pelican commands to generate the first blog.]({filename}pelican-commands-to-generate-first-pelican-blog-post.md "Pelican commands to generate the first blog.")
+* [Understanding the Pelican Settings files ]({filename}pelican-settings-files.md "Understanding the Pelican Settings files")
+* [Publishing your blog to github pages]({filename}publishing-blog-github-pages.md "Publishing your blog to github pages")
+* [Configuring Github pages with Custom Domain ]({filename}linking-domain-with-github-pages.md "Configuring Github pages with Custom Domain")
+* [Customizing Pelican blog with the help of Plugin and themes]({filename}customizing-pelican-blog-with-plugin-and-themes.md "Customizing Pelican blog with the help of Plugin and themes")
+* [Expressing the content with Pelican Themes]({filename}expressing-with-pelican-themes.md "Expressing the content with Pelican Themes")
+* [Problem Faced when integrating with Elegant Themes]({filename}integration-problem-with-elegant-theme.md "Problem Faced when integrating with Elegant Themes")
+* [Home Page feature for Elegant Theme ]({filename}home-page-features-elegant-theme.md "Home Page feature for Elegant Theme")
+* [Integrating 3rd party services with Pelican Blog.]({filename}integration-problem-with-elegant-theme.md "Integrating 3rd party services with Pelican Blog.")
+* [Tips to improve work flow in pelican blog. ]({filename}tips-for-improving-workflow-in-pelican.md "Tips to improve work flow in pelican blog. ")
 
 
 ## Reference ##
