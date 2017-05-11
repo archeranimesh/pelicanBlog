@@ -1,6 +1,6 @@
 Title: Problem Faced when integrating with Elegant Themes.
 Date: 2017-05-09 22:55:40
-Modified: 2017-05-10 22:42:42
+Modified: 2017-05-11 22:55:07
 Category: Pelican
 Tags: pelican
 Slug: integration-problem-with-elegant-theme
@@ -124,6 +124,24 @@ We have to integrate the `neighbors` plugins and then it works. Now we will have
 PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors']
 ````
 
+## Missing icons for social links ##
+
+Pelican supports a way to integrate most of the social Website like [Twitter ](https://twitter.com/ "Twitter"), [Facebook ](https://www.facebook.com/), [Github ](https://github.com/) etc. This is done by the help of this settings in `pelicanconf.py`
+
+````python
+SOCIAL = (('github', 'URL to your profile'),
+          ('linkedin-square', 'URL to your profile'),
+          ('facebook','URL to your profile'),
+          ('quora', 'URL to your profile'),
+          ('reddit', 'URL to your profile'),
+          ('twitter', 'URL to your profile')
+          )
+````
+
+This explains that we have a tuple of tuple in the settings name `SOCIAL`, if you see each website name is in a particular format, as explained in this [link](https://github.com/talha131/pelican-elegant/issues/98 " Missing icons for social links "), this format is taken from [Font Awesome icon for social links](http://fontawesome.io/icons/#brand "Font Awesome Brands").
+
+When naming the website name in `SOCIAL` configuration, keep in mind the way the website in named in Font Awesome and remove the `fa-` part of the name.
+
 ## References ##
 
 * [Elegant ](http://oncrashreboot.com/elegant-best-pelican-theme-features "Elegant theme")
@@ -134,3 +152,6 @@ PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors']
 * [Tipue Search plugin ](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search. "Tipue Search plugin ")
 * [Tipue search return undefined url ](https://github.com/talha131/pelican-elegant/issues/147 "Tipue search return undefined url").
 * [Tipue search return undefined url pull request](https://github.com/getpelican/pelican-plugins/pull/873/files "Tipue search return undefined url")
+* [Missing icons for social links](https://github.com/talha131/pelican-elegant/issues/98 " Missing icons for social links ")
+* [Font Awesome icon for social links](http://fontawesome.io/icons/#brand "Font Awesome Brands")
+
