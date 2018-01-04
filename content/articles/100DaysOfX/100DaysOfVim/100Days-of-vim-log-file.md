@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2017-12-24 17:56:02
-Modified: 2018-01-03 23:35:27
+Modified: 2018-01-04 23:29:41
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file
@@ -19,6 +19,26 @@ Fortunately enough when I was struggling with the idea to become better at vim, 
 
 Through this log file, I will update what ever resource I will use and what ever practice I am doing everyday. God permits if I become good at vim in these 100 days it will be an achievement for me. Hoping for the best I hereby jump into the world of Real Programmers.
 
+## Day -6: Thursday January 4,2018 ##
+
+### Today's Progress ###
+* Completed the `vimtutor` exercise in ~11 minutes.
+* Learned about these keystrokes.
+    - `w` : jump a word, not special char
+    - `e` : jump to end of word.
+    - `$` : jump to end of line.
+    - `0` : jump to first column of the line.
+
+![Day 03 Pomodoro Image for Vim Tutor]({filename}../../../images/100DaysOfVim/vimPomodoro_03.jpg "Day 03 Pomodoro Image for Vim Tutor")
+
+### Thoughts ###
+
+* Just `vimtutor` teaches so many basic key strokes to become a better beginner, everyone thinking of learning vim should try this.
+
+**Link to Tweet**
+
+---
+
 ## Day -7: Wednesday January 3,2018 ##
 
 ### Today's Progress ###
@@ -36,6 +56,9 @@ Through this log file, I will update what ever resource I will use and what ever
 
 * Looking at the key combination of VIM, I feel like each characters have a similar story.
 
+**Link to Tweet** [#100DaysOfVim Day-02 Tweet](https://twitter.com/animeshkbhadra/status/948617542905430016)
+
+---
 
 ## Day -8: Wednesday January 2,2018##
 
@@ -49,7 +72,9 @@ Through this log file, I will update what ever resource I will use and what ever
 
 * I have been using vim for a long time, but never took the pain to master it. I am starting this challenge with an idea that I will be able to move to intermediate level vim.
 
-**Link To Tweet** [#100DaysOf Vim Day-01 Tweet](https://twitter.com/animeshkbhadra/status/948606558400737280)
+**Link To Tweet** [#100DaysOfVim Day-01 Tweet](https://twitter.com/animeshkbhadra/status/948606558400737280)
+
+---
 
 ## References ##
 
