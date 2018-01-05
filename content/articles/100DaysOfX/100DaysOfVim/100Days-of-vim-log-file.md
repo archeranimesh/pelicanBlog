@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2017-12-24 17:56:02
-Modified: 2018-01-04 23:29:41
+Modified: 2018-01-05 23:30:48
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file
@@ -19,10 +19,30 @@ Fortunately enough when I was struggling with the idea to become better at vim, 
 
 Through this log file, I will update what ever resource I will use and what ever practice I am doing everyday. God permits if I become good at vim in these 100 days it will be an achievement for me. Hoping for the best I hereby jump into the world of Real Programmers.
 
-## Day -6: Thursday January 4,2018 ##
+## Day -5: Friday January 5,2018 ##
 
 ### Today's Progress ###
 * Completed the `vimtutor` exercise in ~11 minutes.
+* Learned about these keystrokes.
+    - `u` : undo just one change.
+    - `U` : Undo changes in one line.
+    - `Ctrl + r` : Redo the last change.
+    - `:s/searchforstring/replacewithSting/g` : Search and replace in one line.
+
+![Day 04 Pomodoro Image for Vim Tutor]({filename}../../../images/100DaysOfVim/vimPomodoro_04.jpg "Day 04 Pomodoro Image for Vim Tutor")
+
+### Thoughts ###
+* `vimtutor` is helping me gain the confidence on using VIM. Now I do not feel threatened by VIM.
+
+**Link to Tweet** 
+
+---
+
+
+## Day -6: Thursday January 4,2018 ##
+
+### Today's Progress ###
+* Completed the `vimtutor` exercise in ~14 minutes.
 * Learned about these keystrokes.
     - `w` : jump a word, not special char
     - `e` : jump to end of word.
@@ -35,7 +55,7 @@ Through this log file, I will update what ever resource I will use and what ever
 
 * Just `vimtutor` teaches so many basic key strokes to become a better beginner, everyone thinking of learning vim should try this.
 
-**Link to Tweet**
+**Link to Tweet** [#100DaysOfVim Day-03 Tweet](https://twitter.com/animeshkbhadra/status/948978390173761536)
 
 ---
 
@@ -43,7 +63,7 @@ Through this log file, I will update what ever resource I will use and what ever
 
 ### Today's Progress ###
 
-* Completed the `vimtutor` exercise in ~11 minutes.
+* Completed the `vimtutor` exercise in ~14 minutes.
 * Learned about these keystrokes.
     - `a` : Append at the next cursor point.
     - `A` : Append at the end of line.
