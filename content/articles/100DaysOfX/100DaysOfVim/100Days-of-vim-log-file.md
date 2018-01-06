@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2017-12-24 17:56:02
-Modified: 2018-01-05 23:30:48
+Modified: 2018-01-06 22:31:48
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file
@@ -19,6 +19,30 @@ Fortunately enough when I was struggling with the idea to become better at vim, 
 
 Through this log file, I will update what ever resource I will use and what ever practice I am doing everyday. God permits if I become good at vim in these 100 days it will be an achievement for me. Hoping for the best I hereby jump into the world of Real Programmers.
 
+---
+
+## Day -4: Saturday January 6,2018 ##
+
+### Today's Progress ###
+* Completed the `vimtutor` exercise in ~11 minutes.
+* Learned about these keystrokes.
+    - `i` : insert before the cursor.
+    - `x` : delete the character under the cursor.
+    - `h` : Left Movement. (Left most Key)
+    - `j` : Down Movement. (Anchor like `j`)
+    - `k` : Up Movement.
+    - `l` : Right Movement. (Right most key)
+
+![Day 05 Pomodoro Image for Vim Tutor]({filename}../../../images/100DaysOfVim/vimPomodoro_05.jpg "Day 05 Pomodoro Image for Vim Tutor")
+
+### Thoughts ###
+* In my first attempt while learning `vimtutor` some years ago, I was not able to understand that `vimtutor` is a separate command in shell.
+* From that beginning to today where I am comfortable in using `vimtutor`, surely have come a long way.
+
+**Link to Tweet** 
+
+---
+
 ## Day -5: Friday January 5,2018 ##
 
 ### Today's Progress ###
@@ -34,7 +58,7 @@ Through this log file, I will update what ever resource I will use and what ever
 ### Thoughts ###
 * `vimtutor` is helping me gain the confidence on using VIM. Now I do not feel threatened by VIM.
 
-**Link to Tweet** 
+**Link to Tweet** [#100DaysOfVim Day-04 Tweet](https://twitter.com/animeshkbhadra/status/949341204021354496)
 
 ---
 
