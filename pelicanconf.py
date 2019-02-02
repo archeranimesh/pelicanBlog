@@ -78,7 +78,7 @@ MARKDOWN = {
 THEME = 'themes/elegant'
 
 PLUGIN_PATHS = ['plugin']
-PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors']
+PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors', 'render_math']
 
 SITEMAP = {
     'exclude': ['tag/', 'category/'],
