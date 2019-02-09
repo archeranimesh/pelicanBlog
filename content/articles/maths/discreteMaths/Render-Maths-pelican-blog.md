@@ -1,6 +1,6 @@
 Title: Render Maths Equation with Pelican Blog
 Date: 2019-02-02 19:25:57
-Modified: 2019-02-10 00:10:10
+Modified: 2019-02-10 00:13:23
 Category: Pelican
 Tags: pelican, maths, render_math
 Slug: Render-Maths-pelican-blog
@@ -25,5 +25,8 @@ $$ \neg(P \wedge Q) \equiv \neg P \vee \neg Q $$
 $$ \neg(P \vee Q) \equiv \neg P \wedge \neg Q $$
 
 
-| Table   | Content |  
-| Animesh | Bhadra  |  
+|First Header  | Second Header|
+|------------- | -------------|
+|Content Cell  | Content Cell|
+|Content Cell  | Content Cell|
+
