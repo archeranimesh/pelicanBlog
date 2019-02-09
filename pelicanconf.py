@@ -70,7 +70,7 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.toc' :{'permalink' : 'true'},
-
+        'markdown.extensions.tables':{},
     },
     'output_format': 'html5',
 }

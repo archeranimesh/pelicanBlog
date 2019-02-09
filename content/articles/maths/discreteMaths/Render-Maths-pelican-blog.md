@@ -1,6 +1,6 @@
-Title: 
+Title: Render Maths Equation with Pelican Blog
 Date: 2019-02-02 19:25:57
-Modified: 2019-02-02 20:39:51
+Modified: 2019-02-10 00:03:47
 Category: Pelican
 Tags: pelican, maths, render_math
 Slug: Render-Maths-pelican-blog
@@ -23,3 +23,7 @@ $$ \neg(P \wedge Q) \equiv \neg P \vee \neg Q $$
 * De Morgan’s Law (negation of alternative)
 
 $$ \neg(P \vee Q) \equiv \neg P \wedge \neg Q $$
+
+
+| Table   | Content |
+| Animesh | Bhadra  |
