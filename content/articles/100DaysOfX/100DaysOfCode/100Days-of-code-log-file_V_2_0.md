@@ -1,8 +1,8 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-15 23:23:38
+Modified: 2019-02-16 21:16:56
 Category: #100DaysOfCode, python
-Tags: #100DaysOfCode, #100DaysOfX
+Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
 Author: Animesh Bhadra
 subtitle: Another bite of the cherry
@@ -50,3 +50,4 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 * [100DaysOfCode Official Website ](https://www.100daysofcode.com/)
 * [Learn Python Track from Team TreeHouse](https://teamtreehouse.com/tracks/learn-python)
 * [MIT 6.00SC Introduction to Computer Science and Programming ](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
+* [Create a Tweet With image Preview for Free ](https://nealschaffer.com/tweet-link-preview-image-twitter/)
