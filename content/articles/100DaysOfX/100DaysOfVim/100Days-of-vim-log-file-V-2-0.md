@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-16 23:54:51
+Modified: 2019-02-18 23:31:14
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -30,11 +30,21 @@ The goal of this **100DaysofVim** are:-
 * Integrate debugging with source code navigation in VIM.
 
 
-## Day 0 - Saturday 16 February 2019 ##
+## Day 1 - Monday 18 February 2019 ##
 
 ### Today's Progress ###
 
+1. Complete the `vimtutor ` exercise.
+2. Studied the quick reference in vim help.
+
+
 ### Thoughts ###
+* Few commands which was very good.
+	- Using `C` to change the text from the cursor till end of line.
+	- Using `D` to delete the text from the cursor till end of line.
+* Few Insert Mode commands.
+	- `CTRL-T` : insert one shiftwidth of indent in front of line.
+	- `CTRL-D` : deletes one shiftwidth of indent in front of line.
 
 
 ## References ##
@@ -42,3 +52,4 @@ The goal of this **100DaysofVim** are:-
 1. [How To Learn Vim: A Four Week Plan ](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
 2. [100daysOfX](http://100daysofx.com/) 
 3. [YouTube | 7 Habits For Effective Text Editing 2.0](https://www.youtube.com/watch?v=p6K4iIMlouI)
+4. [VimCast | Episodes ](http://vimcasts.org/episodes/)
