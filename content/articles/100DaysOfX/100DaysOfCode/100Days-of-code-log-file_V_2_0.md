@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-16 21:16:56
+Modified: 2019-02-19 23:38:07
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -34,12 +34,25 @@ There are learning from the previous failure, here are the modification which wa
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
-## Day 1: Friday 15 February 2019 ##
+## Day 1: Tuesday 19 February 2019 ##
 ---
 
 ### Days Progress ###
 
+I am learning Python from the learn python track of [TreeHouse](https://teamtreehouse.com/tracks/learn-python). I started this course, some days back, from now, will post regularly on behalf of #100DaysOfCode.
+
+Today I have completed the Advanced Object Badge.
+
+![Advance Object TreeHouse Badge.]({filename}../../../images/100DaysOfCode/python.png "Advance Object TreeHouse Badge.")
+
 ### Thoughts ###
+
+Today I learned about:-
+
+* `@property` : This decorator is used to convert a class method into a class property.
+* `@property.setter` : This decorator is used to make the method set a class property.
+* `@classmethod` : This is a decorator which takes a function as input works on it and returns another function as output.
+
 
 * [Link to Tweet](link)
 

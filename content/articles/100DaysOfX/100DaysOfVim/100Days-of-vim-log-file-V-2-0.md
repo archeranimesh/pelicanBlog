@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-18 23:31:14
+Modified: 2019-02-19 23:34:32
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -29,8 +29,25 @@ The goal of this **100DaysofVim** are:-
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
 
+## Day 2 | Tuesday 19 February 2019 ##
 
-## Day 1 - Monday 18 February 2019 ##
+### Today's Progress ###
+
+1. Complete the `vimtutor ` exercise.
+2. Studied the quick reference in vim help.
+3. Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/)
+
+
+### Thoughts ###
+
+* Studied the **Copying and Moving text.** section of vim help.
+* `_` behaves the same as `^` without a count preceding it. When count is preceding it, this behaves as `j`.
+	- [What does the underscore motion do in vim?](https://unix.stackexchange.com/questions/155926/what-does-the-underscore-motion-do-in-vim)
+* While learning about vim help file, I found that all the commands which are similar are generally kept together.
+ 
+* [Link To Tweet](link)
+
+## Day 1 | Monday 18 February 2019 ##
 
 ### Today's Progress ###
 
@@ -45,6 +62,8 @@ The goal of this **100DaysofVim** are:-
 * Few Insert Mode commands.
 	- `CTRL-T` : insert one shiftwidth of indent in front of line.
 	- `CTRL-D` : deletes one shiftwidth of indent in front of line.
+
+* [Link to Tweet](https://twitter.com/animeshkbhadra/status/1097560432850685954)
 
 
 ## References ##

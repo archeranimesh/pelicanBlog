@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-18 23:26:13
+Modified: 2019-02-19 23:36:49
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -16,6 +16,16 @@ keywords: #100DaysOfCode, #100DaysOfX, Discrete Maths, MIT OCW, NPTEL, Rosen, Ar
 Discrete Maths is a study of things which are discrete, which means things which can be counted. Discrete Maths forms the basis of a lot of concepts in algorithms and Computer science in general. I am starting this #100DaysOfX which Discrete Maths, to have a sufficient understanding of the concepts. I am using resources from NPTEL, MIT OCW, and ArsDigita University.
 
 The plan is to follow the 3 lectures mentioned in the references and the Rosen book on Discrete math. 
+
+## Day 02 | Tuesday 19 February 2019 ##
+
+### Days Progress ###
+
+1. Complete the First lecture of this YouTube play [list ](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=2&t=0s)
+
+### Thoughts ###
+
+* I have not taken any notes, but the lecture was mostly focused on methods of proof, propositions and connectives.
 
 ## Day 01 | Monday 18 February 2019 ##
 
@@ -41,6 +51,7 @@ These 2 video's provided the additional help.
 
 * [Rachel's Discrete Math Course - Implications (Lecture 5)](https://www.youtube.com/watch?v=LSm4P6ywxoA)
 * [Propositional logic | first order predicate logic| Propositional calculus | gate | net - part 5](https://www.youtube.com/watch?v=hICRgMz2LG8)
+* [Link to Tweet](https://twitter.com/animeshkbhadra/status/1097558663814893569)
 
 
 ## Reference ##
