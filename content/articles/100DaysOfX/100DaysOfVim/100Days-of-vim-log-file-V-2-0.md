@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-19 23:34:32
+Modified: 2019-02-20 21:40:59
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -29,6 +29,42 @@ The goal of this **100DaysofVim** are:-
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
 
+## Day 03 | Wednesday 20 February 2019 ##
+
+### Today's Progress ###
+
+![Vim Help Screen for changing text ]({filename}../../../images/100DaysOfVim/vim_changingText.png "Vim Help Screen for changing text")
+
+1. Complete the `vimtutor ` exercise.
+2. Studied the quick reference in vim help.
+3. Lecture on buffers from [Udemy | Vim MasterClass | Jason Cannon ](https://www.udemy.com/vim-commands-cheat-sheet/)
+
+
+### Thoughts ###
+* Learned about these buffers commands.
+	- `:buffers` or `:ls`
+	- `:bn` or `:bnext`
+	- `:bp` or `:bprevious`
+	- `:bf` or `:bfirst`
+	- `:bl` or `:blast`
+	- `CTRL + ^` : last open buffers
+	- `:set hidden`
+	- `:qall!`
+	- `:wall!`
+	- `:badd`
+	- `:bd`
+	- `:bufdo`
+	- `:Explore`
+* Studied the **Changing Text** from Vim help.
+	- `cc`, `S`, `C`, `s` all work on line.
+	- `CTRL + A` and `CTRL + X` has a very nice implementation.
+	- `:ce`, `:le` & `:ri` changes the alignment of line, center, left and right.
+
+* [link to tweet](link)
+
+
+### Thoughts ###
+
 ## Day 2 | Tuesday 19 February 2019 ##
 
 ### Today's Progress ###
@@ -45,7 +81,7 @@ The goal of this **100DaysofVim** are:-
 	- [What does the underscore motion do in vim?](https://unix.stackexchange.com/questions/155926/what-does-the-underscore-motion-do-in-vim)
 * While learning about vim help file, I found that all the commands which are similar are generally kept together.
  
-* [Link To Tweet](link)
+* [Link To Tweet](https://twitter.com/animeshkbhadra/status/1097924386038915072)
 
 ## Day 1 | Monday 18 February 2019 ##
 

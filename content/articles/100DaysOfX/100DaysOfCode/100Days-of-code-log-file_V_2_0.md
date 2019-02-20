@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-19 23:38:07
+Modified: 2019-02-20 20:46:02
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -34,7 +34,36 @@ There are learning from the previous failure, here are the modification which wa
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
-## Day 1: Tuesday 19 February 2019 ##
+
+## Day 02 | Wednesday 20 February 2019 ##
+
+### Days Progress ###
+
+Today I just watched the first lecture from MIT OCW's [MIT 6.00SC Introduction to Computer Science and Programming ](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7&index=2&t=0s).
+
+This is a great lecture by [John Guttag ](https://people.csail.mit.edu/guttag/)
+
+I am alternating between [Learn Python Track from Team TreeHouse](https://teamtreehouse.com/tracks/learn-python) and [MIT 6.00SC Introduction to Computer Science and Programming ](https://www.youtube.com/playlist?reload=9&list=PLB2BE3D6CA77BB8F7)
+
+### Thoughts ###
+
+Lecture 1 of MIT 6.00SC Introduction to Computer Science and Programming taught me about:-
+
+* Declarative and Imperative Knowledge.
+* Algorithms
+* Fixed program and stored program computers
+* Programming Language
+	- Syntax
+	- Static Semantics
+	- Semantics.
+* Types of errors
+* Compiled Vs Interpreted Language 
+
+
+* [Link To Tweet](link)
+
+
+## Day 01 | Tuesday 19 February 2019 ##
 ---
 
 ### Days Progress ###
@@ -54,7 +83,7 @@ Today I learned about:-
 * `@classmethod` : This is a decorator which takes a function as input works on it and returns another function as output.
 
 
-* [Link to Tweet](link)
+* [Link to Tweet](https://twitter.com/animeshkbhadra/status/1097923646327345153)
 
 
 ## Reference ##

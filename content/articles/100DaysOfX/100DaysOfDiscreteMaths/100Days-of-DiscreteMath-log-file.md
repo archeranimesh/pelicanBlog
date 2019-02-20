@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-19 23:36:49
+Modified: 2019-02-20 20:57:28
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -17,21 +17,52 @@ Discrete Maths is a study of things which are discrete, which means things which
 
 The plan is to follow the 3 lectures mentioned in the references and the Rosen book on Discrete math. 
 
+---
+
+
+## Day 03 | Wednesday 20 February 2019 ##
+
+### Days Progress ###
+
+Completed the 2nd Lecture of NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=0uTE24o3q-o&list=PL0862D1A947252D20).
+
+### Thoughts ###
+
+Today I learned about:-
+
+* Proving implication without drawing all possible rows of truth table.
+* Proved that implication is not associative.
+* Learned about logical identities.
+* Simplified complex compound propositions.
+* Conversion between English to logic and vice versa.
+* Rules of inference
+	- Modus Ponens
+	- Modus Tollens
+
+
+* [link to tweet](link)
+
+---
+
 ## Day 02 | Tuesday 19 February 2019 ##
 
 ### Days Progress ###
 
-1. Complete the First lecture of this YouTube play [list ](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=2&t=0s)
+1. Complete the First lecture of MIT 6.042J YouTube play [list ](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=2&t=0s)
 
 ### Thoughts ###
 
 * I have not taken any notes, but the lecture was mostly focused on methods of proof, propositions and connectives.
 
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1097924977976844289)
+
+---
+
 ## Day 01 | Monday 18 February 2019 ##
 
 ### Days Progress ###
 
-1. Complete the First lecture of this YouTube play [list ](https://www.youtube.com/watch?v=xlUFkMKSB3Y&list=PL0862D1A947252D20&index=2&t=0s). 
+1. Complete the First lecture of NPTEL's YouTube play [list ](https://www.youtube.com/watch?v=xlUFkMKSB3Y&list=PL0862D1A947252D20&index=2&t=0s). 
 
 ### Thoughts ###
 
