@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-20 20:57:28
+Modified: 2019-02-21 22:23:23
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,23 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 04 | Thursday 21 February 2019 ##
+
+### Days Progress ###
+
+* Listened to the 2nd lecture of MIT 6.042J YouTube [play-list](https://www.youtube.com/watch?v=z8HKWUWS-lA&index=2&list=PLB7540DEDD482705B) 
+* This lecture discusses about 
+	- Proof by Contradiction
+	- Introduces to the concept of Induction proof.
+
+### Thoughts ###
+
+* Today was focused on listening to the lecture, so have not taken detailed notes.
+
+* [link to tweet](link)
+
+
+---
 
 ## Day 03 | Wednesday 20 February 2019 ##
 
@@ -40,7 +57,7 @@ Today I learned about:-
 	- Modus Tollens
 
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098270228784574466)
 
 ---
 

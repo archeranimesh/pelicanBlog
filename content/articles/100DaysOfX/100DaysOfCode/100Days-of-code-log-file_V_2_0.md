@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-20 20:46:02
+Modified: 2019-02-21 20:49:41
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -34,6 +34,24 @@ There are learning from the previous failure, here are the modification which wa
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
+---
+
+## Day 03 | Thursday 21 February 2019 ##
+
+### Days Progress ###
+
+I completed the [Object Oriented Python course ](https://teamtreehouse.com/library/objectoriented-python-2). With this I have also received the badge.
+
+![Object Oriented Python Badge.]({filename}../../../images/100DaysOfCode/OOPython.png "Object Oriented Python Badge")
+
+### Thoughts ###
+
+* Today completed the project Dice Roller.
+* I am still not confident in some part of Object Oriented Python, will soon polish it.
+
+* [link to tweet](link)
+
+---
 
 ## Day 02 | Wednesday 20 February 2019 ##
 
@@ -60,11 +78,11 @@ Lecture 1 of MIT 6.00SC Introduction to Computer Science and Programming taught 
 * Compiled Vs Interpreted Language 
 
 
-* [Link To Tweet](link)
+* [Link To Tweet](https://twitter.com/animeshkbhadra/status/1098272030032572416)
 
+---
 
 ## Day 01 | Tuesday 19 February 2019 ##
----
 
 ### Days Progress ###
 
@@ -85,6 +103,7 @@ Today I learned about:-
 
 * [Link to Tweet](https://twitter.com/animeshkbhadra/status/1097923646327345153)
 
+---
 
 ## Reference ##
 

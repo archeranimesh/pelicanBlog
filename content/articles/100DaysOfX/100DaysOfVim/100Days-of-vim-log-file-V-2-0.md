@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-20 21:40:59
+Modified: 2019-02-21 22:35:27
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -28,6 +28,38 @@ The goal of this **100DaysofVim** are:-
 * No use of any vim plugins.
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
+
+---
+
+## Day 04 | Thursday 21 February 2019 ##
+
+### Days Progress ###
+
+1. Complete the `vimtutor ` exercise.
+2. Studied the quick reference in vim help.
+3. Lecture on buffers from [Udemy | Vim MasterClass | Jason Cannon ](https://www.udemy.com/vim-commands-cheat-sheet/)
+4. Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/working-with-windows/)
+
+
+### Thoughts ###
+
+* Learned about the various windows commands.
+	- `CTRL +w s` or :sp `: horizontal split
+	- `CTRL +w v` `:vsp`: vertical split
+	- `:only`: closes all window except the active one
+	- Navigation is done by `CTRL + w w`, `CTRL + w h`, `CTRL + w j`, `CTRL + w k`, `CTRL + w l`
+	- Resize windows
+		+ `CTRL + w +`, `CTRL + w -`, increase or decrease the size by 1 line
+		+ `CTRL + W _`, `CTRL + w |`, increase size of current window in height and width 
+	- Moving window is done by `CTRL + w R`, `CTRL + w H`, `CTRL + w J`, `CTRL + w K`, `CTRL + w L`
+	- like `bufdo` we have a command `windo` which works only on opened window.
+* Studied the **Complex Changes** from vim helps, did not understood much from this.
+
+
+* [link to tweet](link)
+
+
+---
 
 ## Day 03 | Wednesday 20 February 2019 ##
 
@@ -60,10 +92,9 @@ The goal of this **100DaysofVim** are:-
 	- `CTRL + A` and `CTRL + X` has a very nice implementation.
 	- `:ce`, `:le` & `:ri` changes the alignment of line, center, left and right.
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098270900154236928)
 
-
-### Thoughts ###
+---
 
 ## Day 2 | Tuesday 19 February 2019 ##
 
@@ -83,6 +114,8 @@ The goal of this **100DaysofVim** are:-
  
 * [Link To Tweet](https://twitter.com/animeshkbhadra/status/1097924386038915072)
 
+---
+
 ## Day 1 | Monday 18 February 2019 ##
 
 ### Today's Progress ###
@@ -101,6 +134,7 @@ The goal of this **100DaysofVim** are:-
 
 * [Link to Tweet](https://twitter.com/animeshkbhadra/status/1097560432850685954)
 
+---
 
 ## References ##
 
