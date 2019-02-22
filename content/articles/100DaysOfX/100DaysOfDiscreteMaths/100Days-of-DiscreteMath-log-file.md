@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-22 20:57:32
+Modified: 2019-02-22 22:30:14
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,12 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 05 | Friday 22 February 2019 ##
+
+Today was a rest day for Discrete Maths.
+
+
+---
 ## Day 04 | Thursday 21 February 2019 ##
 
 ### Days Progress ###

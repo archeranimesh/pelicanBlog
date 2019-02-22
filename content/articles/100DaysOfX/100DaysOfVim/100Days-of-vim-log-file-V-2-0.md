@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-22 20:58:08
+Modified: 2019-02-22 22:40:50
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,37 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 05 | Friday 22 February 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help.
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/working-with-tabs/)
+* Completed the course [Udemy | Vim MasterClass | Jason Cannon ](https://www.udemy.com/vim-commands-cheat-sheet/) 	
+	- Received the course completion certificate.
+![Vim Master Class Certificate ]({filename}../../../images/100DaysOfVim/vimMasterClass.jpg "Vim Master Class Certificate")
+
+
+### Thoughts ###
+
+* Learned about the gVIM clipboard buffers `"+` and `"*`
+* Tab's command
+	- `:tabe` : open a tab with file name
+	- `CTRL-W T`: move current split into a tab.
+	- `tabc` : close current tab
+	- `tabo[nly]`: one 1 tab open.
+	- `gT` and `gt`: to switch between tabs.
+	- `tabmove`: move tabs
+* Completed these help topics
+	- ** Visual Mode **
+	- ** Text Object **
+
+* [link to tweet](link)	
+
+
+
+---
 ## Day 04 | Thursday 21 February 2019 ##
 
 ### Days Progress ###

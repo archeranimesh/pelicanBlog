@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-22 20:56:54
+Modified: 2019-02-22 22:29:35
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -33,6 +33,38 @@ There are learning from the previous failure, here are the modification which wa
 * Missing few (~5) days is acceptable.
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
+
+---
+
+## Day 04 | Friday 22 February 2019 ##
+
+### Days Progress ###
+
+* Completed the course [TreeHouse | Write Better python ](https://teamtreehouse.com/library/write-better-python)
+* Received the badge Clean Code Badge
+
+![Python Clean Code Badge ]({filename}../../../images/100DaysOfCode/python_cleancode.png "Python Clean Code Badge")
+
+* In addition completed the Write Better python Course of the Learn Python track.
+
+![Write Better Python ]({filename}../../../images/100DaysOfCode/writeBetterPython.png "Write Better Python")
+
+
+### Thoughts ###
+
+This course taught about:-
+
+* PEP-8 Coding style guide.
+* PEP-20 which is the Zen of python, can be accessed using `import this` 
+* PEP-257 for docstrings
+	- DocString which can fit one line should.
+	- DocString that cannot, put the closing triple quote on their own line.
+* Logging Module of python
+	- 6 Logs levels, `CRITICAL`, `ERROR`, `WARNING`, `INFO`, `DEBUG`, `NOTSET`
+* Python Debugger `pdb`, can be invoked by calling `import pdb; pdb.set_trace()`
+
+* [link to tweet](link)
+
 
 ---
 
