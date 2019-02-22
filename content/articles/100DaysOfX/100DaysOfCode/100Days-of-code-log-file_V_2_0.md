@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-21 20:49:41
+Modified: 2019-02-22 20:56:54
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -49,7 +49,7 @@ I completed the [Object Oriented Python course ](https://teamtreehouse.com/libra
 * Today completed the project Dice Roller.
 * I am still not confident in some part of Object Oriented Python, will soon polish it.
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098633238963240961)
 
 ---
 

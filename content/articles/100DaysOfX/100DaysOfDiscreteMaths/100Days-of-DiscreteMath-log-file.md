@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-21 22:23:23
+Modified: 2019-02-22 20:57:32
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -32,7 +32,7 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 * Today was focused on listening to the lecture, so have not taken detailed notes.
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098632243373924353)
 
 
 ---

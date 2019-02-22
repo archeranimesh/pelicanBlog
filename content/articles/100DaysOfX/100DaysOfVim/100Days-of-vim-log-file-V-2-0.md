@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-21 22:35:27
+Modified: 2019-02-22 20:58:08
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -56,7 +56,7 @@ The goal of this **100DaysofVim** are:-
 * Studied the **Complex Changes** from vim helps, did not understood much from this.
 
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098634646991065089)
 
 
 ---
