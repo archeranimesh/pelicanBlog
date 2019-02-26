@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-22 22:30:14
+Modified: 2019-02-26 22:55:10
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -16,6 +16,47 @@ keywords: #100DaysOfCode, #100DaysOfX, Discrete Maths, MIT OCW, NPTEL, Rosen, Ar
 Discrete Maths is a study of things which are discrete, which means things which can be counted. Discrete Maths forms the basis of a lot of concepts in algorithms and Computer science in general. I am starting this #100DaysOfX which Discrete Maths, to have a sufficient understanding of the concepts. I am using resources from NPTEL, MIT OCW, and ArsDigita University.
 
 The plan is to follow the 3 lectures mentioned in the references and the Rosen book on Discrete math. 
+
+---
+
+## Day 07 | Tuesday 26 February 2019 ##
+
+### Days Progress ###
+
+Listened to the 2nd lecture of MIT 6.042J YouTube [play-list](https://www.youtube.com/watch?v=z8HKWUWS-lA&index=2&list=PLB7540DEDD482705B) 
+
+
+### Thoughts ###
+
+* This lecture discusses about 
+	- Proof by Contradiction
+	- Introduces to the concept of Induction proof.
+
+* [link to tweet](link)	
+
+---
+
+## Day 06 | Monday 25 February 2019 ##
+
+### Days Progress ###
+
+Completed the 3rd Lecture of NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=DmCltf8ypks&list=PL0862D1A947252D20).
+
+### Thoughts ###
+
+Today I learned about:-
+
+* Predicate and Quantifiers.
+	- Predicate
+		+ Predicate Logic
+		+ n-ary predicate
+	- Quantifiers
+		+ Universal
+		+ Existential
+	- Binding Variables
+	- Logical equivalence involving quantifiers.
+
+* [link to tweet](link)	
 
 ---
 

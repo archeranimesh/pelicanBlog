@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-22 22:29:35
+Modified: 2019-02-26 22:46:52
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,26 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 05 | Tuesday 26 February 2019 ##
+
+### Days Progress ###
+
+* There was a gap of 3 days.
+* Started the [Date and Time](https://teamtreehouse.com/library/dates-and-times-in-python) module.
+
+### Thoughts ###
+
+* This course teaches about the date and time module of Python.
+* Major modules in `datetime` are
+	- `date`, `datetime`, `time`, `timedelta`, `timezone`, `tzinfo`- which is rarely used directly.
+* Learned about `.today()`, `.combine()`, `.timestamp()` -  which returns the epoch time.
+* We can format the time with help from `strftime()`
+* We can create time with string format `strptime()`
+
+* [link to tweet](link)	
+
+---
+
 ## Day 04 | Friday 22 February 2019 ##
 
 ### Days Progress ###
@@ -63,7 +83,7 @@ This course taught about:-
 	- 6 Logs levels, `CRITICAL`, `ERROR`, `WARNING`, `INFO`, `DEBUG`, `NOTSET`
 * Python Debugger `pdb`, can be invoked by calling `import pdb; pdb.set_trace()`
 
-* [link to tweet](link)
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098994918071156737)
 
 
 ---

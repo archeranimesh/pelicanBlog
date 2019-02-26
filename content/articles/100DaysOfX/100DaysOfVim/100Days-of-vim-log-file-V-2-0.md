@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-22 22:40:50
+Modified: 2019-02-26 23:01:23
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,38 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 07 | Tuesday 26 February 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help.
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/creating-the-vimcasts-logo-as-ascii-art/)
+
+### Thoughts ###
+
+* Learned about session when reading the ** Key Mapping** section of vim help.
+	- `mksession hello.vim`
+	- `vim -S hello.vim`
+
+
+* [link to tweet](link)	
+
+---
+
+## Day 06 | Monday 25 February 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help.
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/how-to-use-tabs/)
+
+### Thoughts ###
+
+* [link to tweet](link)	
+
+---
 ## Day 05 | Friday 22 February 2019 ##
 
 ### Days Progress ###
@@ -57,7 +89,7 @@ The goal of this **100DaysofVim** are:-
 	- ** Visual Mode **
 	- ** Text Object **
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1098996430537142274)	
 
 
 
