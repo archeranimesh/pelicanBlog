@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-26 22:55:10
+Modified: 2019-02-27 22:21:42
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,29 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 08 | Wednesday 27 February 2019 ##
+
+### Days Progress ###
+
+In between the 4th Lecture of NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=jNeISigUCo0&list=PL0862D1A947252D20&index=4)
+
+### Thoughts ###
+
+* Great lecture on predicate logic
+* Learned about:-
+	- Valid Expression
+	- Satisfiable Expression
+	- Unsatisfiable Expression
+
+These addition video's also helped.
+
+* [Universal and Existential Quantifiers](https://www.youtube.com/watch?v=GJpezCUMOxA)
+* [[Discrete Math 1] Predicate Logic and Negating Quantifiers](https://www.youtube.com/watch?v=gyoqX0W-NH4)
+
+* [link to tweet](link)	
+
+---
+
 ## Day 07 | Tuesday 26 February 2019 ##
 
 ### Days Progress ###
@@ -32,7 +55,7 @@ Listened to the 2nd lecture of MIT 6.042J YouTube [play-list](https://www.youtub
 	- Proof by Contradiction
 	- Introduces to the concept of Induction proof.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100451208240734215)	
 
 ---
 
@@ -56,7 +79,7 @@ Today I learned about:-
 	- Binding Variables
 	- Logical equivalence involving quantifiers.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100451208240734215)	
 
 ---
 

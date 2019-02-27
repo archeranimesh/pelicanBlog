@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-26 23:01:23
+Modified: 2019-02-27 22:24:33
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,24 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 08 | Wednesday 27 February 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help.
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/using-the-changelist-and-jumplist/)
+
+### Thoughts ###
+
+* Learned about
+	- `g;` and `g,` : Navigate the change list in forward and backward direction.
+	- `CTRL + 0`, `CTRL + I`: Navigate the jump list in forward and backward direction.
+
+* [link to tweet](link)	
+
+---
+
 ## Day 07 | Tuesday 26 February 2019 ##
 
 ### Days Progress ###
@@ -46,7 +64,7 @@ The goal of this **100DaysofVim** are:-
 	- `vim -S hello.vim`
 
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100449588861956101)	
 
 ---
 
@@ -60,7 +78,7 @@ The goal of this **100DaysofVim** are:-
 
 ### Thoughts ###
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100449588861956101)	
 
 ---
 ## Day 05 | Friday 22 February 2019 ##

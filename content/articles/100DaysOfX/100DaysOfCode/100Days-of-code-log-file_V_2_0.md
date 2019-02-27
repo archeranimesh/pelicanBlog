@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-26 22:46:52
+Modified: 2019-02-27 22:17:45
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 06 | Wednesday 27 February 2019 ##
+
+### Days Progress ###
+
+Today I just watched the second lecture from MIT OCW's [MIT 6.00SC Introduction to Computer Science and Programming ](https://www.youtube.com/watch?v=SLvTCHhu5SE&index=2&list=PLB2BE3D6CA77BB8F7)
+
+
+### Thoughts ###
+In this lecture we discuss about:-
+
+* Type of objects.
+* Expression
+
+
+* [link to tweet](link)	
+
+---
+
 ## Day 05 | Tuesday 26 February 2019 ##
 
 ### Days Progress ###
@@ -52,7 +70,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 * We can format the time with help from `strftime()`
 * We can create time with string format `strptime()`
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100450089930276864)	
 
 ---
 
