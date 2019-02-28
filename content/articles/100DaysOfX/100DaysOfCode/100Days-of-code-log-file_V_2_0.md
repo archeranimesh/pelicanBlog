@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-27 22:17:45
+Modified: 2019-02-28 23:02:31
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 07 | Thursday 28 February 2019 ##
+
+### Days Progress ###
+
+* Started the course. [TreeHouse | Date and Times in Python ](https://teamtreehouse.com/library/dates-and-times-in-python)
+* Received the badge Date and time Badge
+
+![Python Date and Time Badge ]({filename}../../../images/100DaysOfCode/python_time.png "Python Date and Time Badge")
+
+### Thoughts ###
+* Learned about `strftime()` and `strptime()`
+* Made a script to create a link for wikipedia.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1101173226271592449)	
+
+---
+
 ## Day 06 | Wednesday 27 February 2019 ##
 
 ### Days Progress ###
@@ -50,7 +67,7 @@ In this lecture we discuss about:-
 * Expression
 
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100802868599234563)	
 
 ---
 

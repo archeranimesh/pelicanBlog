@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-02-27 22:21:42
+Modified: 2019-02-28 23:06:30
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -16,6 +16,21 @@ keywords: #100DaysOfCode, #100DaysOfX, Discrete Maths, MIT OCW, NPTEL, Rosen, Ar
 Discrete Maths is a study of things which are discrete, which means things which can be counted. Discrete Maths forms the basis of a lot of concepts in algorithms and Computer science in general. I am starting this #100DaysOfX which Discrete Maths, to have a sufficient understanding of the concepts. I am using resources from NPTEL, MIT OCW, and ArsDigita University.
 
 The plan is to follow the 3 lectures mentioned in the references and the Rosen book on Discrete math. 
+
+---
+
+## Day 09 | Thursday 28 February 2019 ##
+
+### Days Progress ###
+
+* Reading and listening to explanation on how to negate a quantifiers.
+* Learning about scope of a quantifiers. 
+
+### Thoughts ###
+
+* Still have doubts on these topics.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1101174243029590023)	
 
 ---
 
@@ -38,7 +53,7 @@ These addition video's also helped.
 * [Universal and Existential Quantifiers](https://www.youtube.com/watch?v=GJpezCUMOxA)
 * [[Discrete Math 1] Predicate Logic and Negating Quantifiers](https://www.youtube.com/watch?v=gyoqX0W-NH4)
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1100803453591400448)	
 
 ---
 
