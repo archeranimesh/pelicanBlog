@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-02-28 23:02:31
+Modified: 2019-03-01 22:25:32
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -33,6 +33,21 @@ There are learning from the previous failure, here are the modification which wa
 * Missing few (~5) days is acceptable.
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
+
+---
+
+## Day 08 | Friday 01 March 2019 ##
+
+### Days Progress ###
+* Completed the module of Quiz Game in the course. [TreeHouse | Date and Times in Python ](https://teamtreehouse.com/library/dates-and-times-in-python)
+* Earned the build timed quiz App badge.
+
+![Python Timed Quiz Badge ]({filename}../../../images/100DaysOfCode/python_time.png "Python Timed Quiz Badge")
+
+### Thoughts ###
+* Some concepts of games were very good.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1101526314564141057)
 
 ---
 
