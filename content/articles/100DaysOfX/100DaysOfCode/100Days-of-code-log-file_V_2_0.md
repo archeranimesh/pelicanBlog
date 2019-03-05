@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-01 22:25:32
+Modified: 2019-03-05 18:38:20
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 09 | Tuesday 05 March 2019 ##
+
+### Days Progress ###
+
+* Completed the module of Quiz Game in the course. [TreeHouse | Date and Times in Python ](https://teamtreehouse.com/library/dates-and-times-in-python)
+* Earned the Dates and Times badge
+
+![Python Dates and Times Badge ]({filename}../../../images/100DaysOfCode/python_date_time.png "Python Dates and Times Badge")
+
+### Thoughts ###
+
+* Learned about timezone.
+* It is a very difficult to handle without [pytz](https://pypi.org/project/pytz/)
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1102918666625130499)	
+
+---
 ## Day 08 | Friday 01 March 2019 ##
 
 ### Days Progress ###
