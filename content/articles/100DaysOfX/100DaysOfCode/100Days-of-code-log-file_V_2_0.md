@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-05 18:38:20
+Modified: 2019-03-11 23:25:05
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,18 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 10 | Monday 11 March 2019 ##
+### Days Progress ###
+
+* Read the first chapter of Head first Python.
+* Wrote few code from the book.
+
+### Thoughts ###
+* Learned about the `datetime` module.
+
+* [link to tweet](link)	
+
+---
 ## Day 09 | Tuesday 05 March 2019 ##
 
 ### Days Progress ###

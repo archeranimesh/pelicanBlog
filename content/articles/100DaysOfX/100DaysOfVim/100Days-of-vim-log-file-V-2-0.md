@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-02-28 23:10:29
+Modified: 2019-03-11 23:29:27
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -28,6 +28,28 @@ The goal of this **100DaysofVim** are:-
 * No use of any vim plugins.
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
+
+---
+
+## Day 10 | Monday 11 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Quickfix commands**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/the-edit-command/)
+
+### Thoughts ###
+
+* **Quickfix commands**
+	- We need a arguments called `makeprg` to be configured.
+	- C program's by default have `make` as the `makeprg`.
+	- Python program can configure `makeprg` as `pyflakes`
+	- We can even configure this pased on the `ftplugin`
+* VimCast
+	- How to change directory while editing a file
+
+* [link to tweet](link)	
 
 ---
 
