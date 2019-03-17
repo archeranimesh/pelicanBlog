@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-03-11 23:29:27
+Modified: 2019-03-17 19:50:47
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,40 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 12 | Wednesday 13 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Command-line editing**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/soft-wrapping-text/)
+
+
+### Thoughts ###
+
+* [link to tweet](link)	
+
+---
+
+## Day 11 | Tuesday 12 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Various commands**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/the-file-explorer/)
+
+### Thoughts ###
+
+* Configured the `netrw` to behave like a File Explorer.
+* Took help from these links
+	-  [Vim: you don't need NERDtree or (maybe) netrw](https://shapeshed.com/vim-netrw/)
+	-  [Magic of netrw in Vim](https://kgrz.io/editing-files-over-network.html)
+
+* [link to tweet](link)	
+
+---
+
 ## Day 10 | Monday 11 March 2019 ##
 
 ### Days Progress ###
@@ -49,7 +83,7 @@ The goal of this **100DaysofVim** are:-
 * VimCast
 	- How to change directory while editing a file
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1105169141072363521)	
 
 ---
 

@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-11 23:25:05
+Modified: 2019-03-17 19:43:56
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,45 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 12 | Wednesday 13 March 2019 ##
+
+### Days Progress ###
+
+* Practiced some of the learning from Regular Expression from previous Day.
+
+### Thoughts ###
+
+* [link to tweet](link)	
+
+---
+## Day 11 | Tuesday 12 March 2019 ##
+
+### Days Progress ###
+
+* Started the Module of Regular Expression from [TreeHouse](https://teamtreehouse.com/library/regular-expressions-in-python)
+
+### Thoughts ###
+* Learned about File read and write operations like
+	- `open()`
+	- `close()`
+	- `read()`
+* In addition to these explored
+	- `re.match()` - Matches against the beginning of text
+	- `re.search()` - returns the first match location anywhere in the text.
+* Few escape sequence
+	- `\w` - Matches Unicode word char including numbers but excluding special character.
+	- `\W` - Matches anything which is ** NOT ** Unicode word or numbers
+	- `\s` - Matches all white spaces
+	- `\S` - Matches anything which is ** NOT ** white spaces
+	- `\d` - Matches numbers
+	- `\D` - Matches ** NOT ** numbers
+	- `\b` - Matches word boundary.
+	- `\B` - Matches ** NOT ** word boundary.
+
+* [link to tweet](link)	
+
+---
+
 ## Day 10 | Monday 11 March 2019 ##
 ### Days Progress ###
 
@@ -45,7 +84,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 ### Thoughts ###
 * Learned about the `datetime` module.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1105167915958063105)	
 
 ---
 ## Day 09 | Tuesday 05 March 2019 ##

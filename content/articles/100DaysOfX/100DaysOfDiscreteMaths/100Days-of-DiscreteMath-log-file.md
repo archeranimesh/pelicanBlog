@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-03-11 23:23:45
+Modified: 2019-03-17 19:47:21
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,38 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 12 | Wednesday 13 March 2019 ##
+
+### Days Progress ###
+
+* Revision of lecture 4 from NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=jNeISigUCo0&list=PL0862D1A947252D20&index=4)
+
+
+### Thoughts ###
+
+* Now learned properly about Predicates and Quantifiers.
+* Scope of Quantifiers.
+* `Valid`, `Satisfiable` and `unsatisfiable` predicates.
+
+* [link to tweet](link)	
+
+
+---
+
+## Day 11 | Tuesday 12 March 2019 ##
+
+### Days Progress ###
+
+* Again listened to the 4th lecture of NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=jNeISigUCo0&list=PL0862D1A947252D20&index=4)
+
+### Thoughts ###
+
+* Learned about Logical Inference.
+
+* [link to tweet](link)	
+
+---
+
 ## Day 10 | Monday 11 March 2019 ##
 
 ### Days Progress ###
@@ -29,7 +61,7 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 ### Thoughts ###
 * Still confusion over Predicate and Quantifiers.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1105168631971889154)	
 
 ---
 
