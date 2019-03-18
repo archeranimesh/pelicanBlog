@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-03-17 19:47:21
+Modified: 2019-03-18 22:13:53
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,19 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 13 | Monday 18 March 2019 ##
+
+### Days Progress ###
+* Revision of lecture 4 from NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=jNeISigUCo0&list=PL0862D1A947252D20&index=4)
+
+### Thoughts ###
+
+* Learned that Implication and Equivalence are not the same.
+* Understood about logical relationship involving quantifiers.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107683968730779649)	
+
+---
 ## Day 12 | Wednesday 13 March 2019 ##
 
 ### Days Progress ###
@@ -32,7 +45,7 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 * Scope of Quantifiers.
 * `Valid`, `Satisfiable` and `unsatisfiable` predicates.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107298216075243521)	
 
 
 ---
@@ -47,7 +60,7 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 * Learned about Logical Inference.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107298216075243521)	
 
 ---
 

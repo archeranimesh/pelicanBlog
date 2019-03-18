@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-03-17 19:50:47
+Modified: 2019-03-18 22:11:43
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,22 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 13 | Monday 18 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Ranges**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/hard-wrapping-text/)
+
+### Thoughts ###
+
+* Understanding Wrapping is little difficult in VIM.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107683433843703810)	
+
+---
+
 ## Day 12 | Wednesday 13 March 2019 ##
 
 ### Days Progress ###
@@ -42,7 +58,7 @@ The goal of this **100DaysofVim** are:-
 
 ### Thoughts ###
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107297853284732934)	
 
 ---
 

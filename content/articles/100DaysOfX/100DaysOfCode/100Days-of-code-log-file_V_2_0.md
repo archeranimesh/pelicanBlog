@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-17 19:43:56
+Modified: 2019-03-18 22:16:21
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,21 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 13 | Monday 18 March 2019 ##
+
+### Days Progress ###
+
+* Started the Chapter 01 from Head First Python.
+
+### Thoughts ###
+
+* Learned about 2 types of `import`s.
+* Learned about these module, `datetime`, `random`, `time`
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107684592805396480)	
+
+
+---
 ## Day 12 | Wednesday 13 March 2019 ##
 
 ### Days Progress ###
@@ -44,7 +59,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107297400236986370)	
 
 ---
 ## Day 11 | Tuesday 12 March 2019 ##
@@ -71,7 +86,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 	- `\b` - Matches word boundary.
 	- `\B` - Matches ** NOT ** word boundary.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1107297400236986370)	
 
 ---
 
