@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-03-18 22:13:53
+Modified: 2019-03-19 23:12:51
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -16,6 +16,20 @@ keywords: #100DaysOfCode, #100DaysOfX, Discrete Maths, MIT OCW, NPTEL, Rosen, Ar
 Discrete Maths is a study of things which are discrete, which means things which can be counted. Discrete Maths forms the basis of a lot of concepts in algorithms and Computer science in general. I am starting this #100DaysOfX which Discrete Maths, to have a sufficient understanding of the concepts. I am using resources from NPTEL, MIT OCW, and ArsDigita University.
 
 The plan is to follow the 3 lectures mentioned in the references and the Rosen book on Discrete math. 
+
+---
+
+## Day 14 | Tuesday 19 March 2019 ##
+
+### Days Progress ###
+
+* Revision of Preposition calculus from Rosen Book. 
+
+### Thoughts ###
+
+* Books are easier to understand once, the concept is understood.
+
+* [link to tweet](link)	
 
 ---
 

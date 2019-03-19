@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-03-18 22:11:43
+Modified: 2019-03-19 23:15:34
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -28,6 +28,23 @@ The goal of this **100DaysofVim** are:-
 * No use of any vim plugins.
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
+
+---
+
+## Day 14 | Tuesday 19 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Special Ex characters**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/formatting-text-with-par/)
+
+### Thoughts ###
+
+* Most of the Special EX char, can be used with the `:edit` command
+* The Vimcast from wrapping and this completely went over the head, will revisit again.
+
+* [link to tweet](link)	
 
 ---
 

@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-18 22:16:21
+Modified: 2019-03-19 23:11:49
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -33,6 +33,38 @@ There are learning from the previous failure, here are the modification which wa
 * Missing few (~5) days is acceptable.
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
+
+---
+
+## Day 14 | Tuesday 19 March 2019 ##
+
+### Days Progress ###
+
+* Completed few regular expression tutorials from [TreeHouse](https://teamtreehouse.com/library/regular-expressions-in-python)
+
+### Thoughts ###
+
+* Learned about counts in regular expressions.
+* We can create expressions like these
+	- `\w{3}` - Match any 3 word char
+	- `\w{,3}` - Match 0,1,2 or 3 word char
+	- `\w{3,}` - Match 3 or more char, no upper limit
+	- `\w{3,5}` - Match 3,4 or 5 word char
+	- `\w?` - Match 0 or 1 char
+	- `\w*` - Match 0 or more
+	- `\w+` - Match 1 or more
+* We can also pass a variable in regular expression string.
+	- `"\w{%s}" %count`
+		+ `%s` - for string
+		+ `%d` - for decimal
+		+ `%f` - for float
+* Sets basic was also checked.
+	- `[abc]` - set of char a,b,c
+	- `[a-z][A-Z][a-zA-Z]` - Char ranges
+	- `[0-9]` - digit
+	- `[^2]` - Not 2
+
+* [link to tweet](link)	
 
 ---
 
