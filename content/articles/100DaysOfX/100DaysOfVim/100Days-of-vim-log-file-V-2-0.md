@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-03-19 23:15:34
+Modified: 2019-03-20 23:48:08
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -31,6 +31,24 @@ The goal of this **100DaysofVim** are:-
 
 ---
 
+## Day 15 | Wednesday 20 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Starting Vim**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/spell-checking/)
+
+
+### Thoughts ###
+
+* Understood about the default spell checking mechanism of VIM.
+* Will post the key bindings soon.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108432461615243265)	
+
+---
+
 ## Day 14 | Tuesday 19 March 2019 ##
 
 ### Days Progress ###
@@ -44,7 +62,7 @@ The goal of this **100DaysofVim** are:-
 * Most of the Special EX char, can be used with the `:edit` command
 * The Vimcast from wrapping and this completely went over the head, will revisit again.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108063720264122376)	
 
 ---
 

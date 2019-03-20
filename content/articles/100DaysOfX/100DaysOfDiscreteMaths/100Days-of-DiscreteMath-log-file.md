@@ -1,6 +1,6 @@
 Title: 100 Days of Discrete Maths.
 Date: 2019-02-17 22:46:40
-Modified: 2019-03-19 23:12:51
+Modified: 2019-03-20 23:46:50
 Category: #100DaysOfDiscreteMath
 Tags: #100DaysOfX, #100DaysOfDiscreteMath
 Slug: 100Days-of-DiscreteMath-log-file
@@ -19,6 +19,26 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 ---
 
+## Day 15 | Wednesday 20 March 2019 ##
+
+### Days Progress ###
+
+* Completed the logical inference lecture from NPTEL's Discrete [Maths](https://www.youtube.com/watch?v=kZ6UqFm8lnw&list=PL0862D1A947252D20&index=5)
+
+### Thoughts ###
+
+* Learned about:-
+	- logical inference for propositional calculus
+		+ Fallacy
+	-  logical inference for Quantifiers
+	-  Normal Forms
+		+  CNF
+		+  DNF
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108432148091076610)	
+
+---
+
 ## Day 14 | Tuesday 19 March 2019 ##
 
 ### Days Progress ###
@@ -29,7 +49,7 @@ The plan is to follow the 3 lectures mentioned in the references and the Rosen b
 
 * Books are easier to understand once, the concept is understood.
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108063385629966336)	
 
 ---
 

@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-19 23:11:49
+Modified: 2019-03-20 23:49:01
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -36,6 +36,18 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 15 | Wednesday 20 March 2019 ##
+
+### Days Progress ###
+
+* Today did not get much work done, solved few exercises in solo learn.
+
+### Thoughts ###
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108432674560069633)	
+
+
+---
 ## Day 14 | Tuesday 19 March 2019 ##
 
 ### Days Progress ###
@@ -64,7 +76,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 	- `[0-9]` - digit
 	- `[^2]` - Not 2
 
-* [link to tweet](link)	
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108063107849564161)	
 
 ---
 
