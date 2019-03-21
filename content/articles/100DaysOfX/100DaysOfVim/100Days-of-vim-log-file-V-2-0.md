@@ -1,6 +1,6 @@
 Title: 100Days of Vim Log File
 Date: 2019-02-16 23:28:02
-Modified: 2019-03-20 23:48:08
+Modified: 2019-03-21 22:51:42
 Category: #100DaysOfVim
 Tags: #100DaysOfVim, #100DaysOfX
 Slug: 100Days-of-vim-log-file-V-2-0
@@ -28,6 +28,23 @@ The goal of this **100DaysofVim** are:-
 * No use of any vim plugins.
 * Read and understand the vim help system.
 * Integrate debugging with source code navigation in VIM.
+
+---
+
+## Day 16 | Thursday 21 March 2019 ##
+
+### Days Progress ###
+
+* Complete the `vimtutor ` exercise.
+* Studied the quick reference in vim help about **Editing a file**
+* Saw 1 screen cast from [VimCast | Episodes ](http://vimcasts.org/episodes/running-vim-within-irb/)
+
+### Thoughts ###
+
+* Nothing significant progress today.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108780661358411776)	
+
 
 ---
 

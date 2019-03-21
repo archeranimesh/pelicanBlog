@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 2nd Attempt
 Date: 2019-02-15 22:42:30
-Modified: 2019-03-20 23:49:01
+Modified: 2019-03-21 22:49:10
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_2_0
@@ -33,6 +33,30 @@ There are learning from the previous failure, here are the modification which wa
 * Missing few (~5) days is acceptable.
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
+
+---
+
+## Day 16 | Thursday 21 March 2019 ##
+
+### Days Progress ###
+
+* Completed few regular expression tutorials from [TreeHouse](https://teamtreehouse.com/library/regular-expressions-in-python)
+
+### Thoughts ###
+
+* Learned about:-
+	- Negation
+		+ `[^abc]` - A set that will not match any char of these characters `a`, `b` and `c`
+		+ `re.IGNORECASE`, `re.I` - Flag to ignore case while searching
+		+ `re.VERBOSE`, `re.X` - Flag that allows regular expression to span multiple lines.
+	- Groups
+		+ `([abc])` - create a group, that contains a set of letters `a`, `b` and `c`
+		+ `(P<name>[abc])` - creates a named group, member can be accessed using `group('name')`
+		+ `re.MULTILINE`, `re.M` - flag to make a pattern having lines.
+			* `^` - Beginning of line.
+			* `$` - End of line.
+
+* [link to tweet](https://twitter.com/animeshkbhadra/status/1108780013992796163)	
 
 ---
 
