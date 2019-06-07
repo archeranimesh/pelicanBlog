@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-05 22:47:44
+Modified: 2019-06-07 22:46:08
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -33,9 +33,28 @@ There are learning from the previous failure, here are the modification which wa
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
 
-## Day 01 |  ##
+## Day 01 |  Friday June 7,2019 ##
+
 ### Days Progress ###
+
+* Started the Python Fundamentals course by Nina Zakharenko.
+* Today's main focus was setting my these things.
+	- Virtual environment.
+	- VScode setup.
+* Faced few issues, which [stackoverflow ](https://stackoverflow.com/questions/41687841/there-is-no-activate-when-i-am-trying-to-run-my-virtual-env) helped in solving
+
+### Issues and Solutions ###
+
+* There was no activate script when the virtual environment was created by using the command `python -m venv .env`
+	- On doing Google for the problem found that running the same command again solves the issue, so ran `python -m venv env` again and viola the activate script appeared.
+* VScode was not recognizing the virtual environment created inside a sub folder in the project.
+	- Deleted the pre-existing environment and created a new virtual environment at the project root.
+
 ### Thoughts ###
+
+* Programming is just efficient Google technique.
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
 
 
 ## Reference ##
