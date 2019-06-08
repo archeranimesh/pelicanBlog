@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-07 22:46:08
+Modified: 2019-06-08 23:52:22
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -32,6 +32,32 @@ There are learning from the previous failure, here are the modification which wa
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
+---
+
+## Day 02 | Saturday June 8,2019 ##
+
+### Days Progress ###
+
+* Understood the VSCode basic settings, got help from a great tutorial by [Corey Schafer](https://www.youtube.com/watch?v=06I63_p-2A4)
+* The tutorials talks about these topics
+	- Change the way settings is displayed as JSON, in place of UI.
+	- Select virtual environment.
+	- Change color theme.
+	- Change file icons.
+	- Set the global python path - `"python.pythonPath": "<Path>"`
+	- Set a global python file formatter, we are using Black for this. `"python.formatting.provider": "black",`
+		+ Also change the option to run the formatter on saving the file. `"editor.formatOnSave": true,`
+	- Enable Linting.
+	- Git Integration.
+	- Unit Testing.
+
+### Thoughts ###
+
+* VScode has lot of power, lets see how much I learn from it.
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 
 ## Day 01 |  Friday June 7,2019 ##
 
@@ -54,7 +80,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 * Programming is just efficient Google technique.
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1137047401137549312)
 
 
 ## Reference ##
@@ -65,3 +91,4 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 * [MIT 6.00SC Introduction to Computer Science and Programming ](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 * [Create a Tweet With image Preview for Free ](https://nealschaffer.com/tweet-link-preview-image-twitter/)
 * [FrontEndMasters | Python Fundamentals | Nina Zakharenko ](https://frontendmasters.com/courses/python/)
+* [Corey Schafer](https://www.youtube.com/watch?v=06I63_p-2A4)
