@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-08 23:52:22
+Modified: 2019-06-09 22:25:00
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,26 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 03 | Sunday June 9,2019 ##
+
+### Days Progress ###
+
+* Completed the Data Type chapter in the FrontEnd Master's Python fundamentals.
+* This chapter introduces some nice concept about data types
+	- `45j`  is a complex data type `<class 'complex'>` but not `45i`, so `j` is the identifier for complex number.
+	- `new_name f"Hello, {name}"` is a format string, `name` in `{}` is the variable name which will be replaced.
+	- Same variable can be used to store number, or strings.
+	- String can be created by both `'string 1 '` or `" String 2 "`
+	- Integer division gives the result in floating point `3/2 = 1.5`
+
+### Thoughts ###
+* Python Data types have lot of power inside them with very less ambiguity.
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 02 | Saturday June 8,2019 ##
 
 ### Days Progress ###
@@ -55,7 +75,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 * VScode has lot of power, lets see how much I learn from it.
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1137427179573092353)
 
 ---
 
