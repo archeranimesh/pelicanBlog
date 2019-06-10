@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-10 23:03:55
+Modified: 2019-06-10 23:39:13
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -36,9 +36,22 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ## Day 04 | Monday June10,2019 ##
 
+![Functions]({filename}../../../images/100DaysOfCode/functions_01.png "Different return type of functions.")
+
 ### Days Progress ###
+* Started the `functions` section of the lecture.
+* This lesson, teaches about different function type.
+	- Function with no arguments and no return type
+	- Function with no arguments and a return type
+	- Function with 2 arguments and a return type
+	- Function with multi-line function body.
+	- return is always optional in function, it returns `<class 'NoneType'>`
 
 ### Thoughts ###
+* The function returning `<class 'NoneType'>` was a eye opener.
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
 ---
 
 ## Day 03 | Sunday June 9,2019 ##
@@ -56,7 +69,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 ### Thoughts ###
 * Python Data types have lot of power inside them with very less ambiguity.
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1137766857312616453)
 
 
 ---
