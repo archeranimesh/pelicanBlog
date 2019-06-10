@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-09 22:25:00
+Modified: 2019-06-10 23:03:55
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -32,6 +32,13 @@ There are learning from the previous failure, here are the modification which wa
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
+---
+
+## Day 04 | Monday June10,2019 ##
+
+### Days Progress ###
+
+### Thoughts ###
 ---
 
 ## Day 03 | Sunday June 9,2019 ##
