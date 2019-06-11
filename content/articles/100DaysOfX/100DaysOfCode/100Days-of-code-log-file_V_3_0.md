@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-10 23:39:13
+Modified: 2019-06-11 22:25:36
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,7 +34,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
-## Day 04 | Monday June10,2019 ##
+## Day 04 | Monday June 10,2019 ##
 
 ![Functions]({filename}../../../images/100DaysOfCode/functions_01.png "Different return type of functions.")
 
