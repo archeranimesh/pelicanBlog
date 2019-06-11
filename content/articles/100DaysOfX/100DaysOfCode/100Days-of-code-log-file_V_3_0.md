@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-11 22:25:36
+Modified: 2019-06-11 23:06:56
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,21 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 5 | Tuesday June 11,2019 ##
+![Functions Arguments]({filename}../../../images/100DaysOfCode/functions_02.png "Function Arguments")
+
+### Days Progress ###
+* Started with the *Function's Arguments*.
+* Positional arguments must be passed to functions.
+* Default arguments are always provide at the end of function's argument list.
+* We can give *none*, *one*, *all* arguments to a function with only default arguments list.
+* Labeled arguments can be passed in any order to a function. 
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 04 | Monday June 10,2019 ##
 
 ![Functions]({filename}../../../images/100DaysOfCode/functions_01.png "Different return type of functions.")
@@ -50,7 +65,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 ### Thoughts ###
 * The function returning `<class 'NoneType'>` was a eye opener.
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1138147827287187457)
 
 ---
 
