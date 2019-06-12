@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-11 23:06:56
+Modified: 2019-06-12 23:30:59
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,21 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 06 | Wednesday June 12,2019 ##
+![List as a function argument.]({filename}../../../images/100DaysOfCode/functions_03_01.png "List as a function argument.")
+![List as a function argument.]({filename}../../../images/100DaysOfCode/functions_03_02.png "List as a function argument.")
+
+### Days Progress ###
+* List or any other mutable data type should not be used as the default arguments.
+	- The list is initialized when the function is called the 1st time, and then it modifies the same list. 
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 5 | Tuesday June 11,2019 ##
 ![Functions Arguments]({filename}../../../images/100DaysOfCode/functions_02.png "Function Arguments")
 
@@ -46,7 +61,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1138501823415951360)
 
 ---
 ## Day 04 | Monday June 10,2019 ##
