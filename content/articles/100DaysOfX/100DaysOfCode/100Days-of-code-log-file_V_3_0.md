@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-12 23:30:59
+Modified: 2019-06-13 22:51:54
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 07 | Thursday June 13,2019 ##
+### Days Progress ###
+* Function scope is little confusing without practice.
+	- There is a global scope and a local scope to a function.
+	- If same variable name is same, local scope gets preference.
+		+ Global variable cannot be modified even thought it share the same name.
+* This code will work.
+![Function Scope Working case.]({filename}../../../images/100DaysOfCode/functions_scope_01.png "Function Scope Working case.")
+* But this code will not work, gives `UnboundLocalError:`.
+![Function Scope Not Working case.]({filename}../../../images/100DaysOfCode/functions_scope_error.png "Function Scope Not Working case.")
+* The explanation is mentioned in the Python [Documentation](https://docs.python.org/3/faq/programming.html#why-am-i-getting-an-unboundlocalerror-when-the-variable-has-a-value).
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 06 | Wednesday June 12,2019 ##
 ![List as a function argument.]({filename}../../../images/100DaysOfCode/functions_03_01.png "List as a function argument.")
 ![List as a function argument.]({filename}../../../images/100DaysOfCode/functions_03_02.png "List as a function argument.")
@@ -44,7 +61,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1138870851497934848)
 
 
 ---
