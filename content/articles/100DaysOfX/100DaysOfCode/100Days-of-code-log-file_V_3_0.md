@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-13 22:51:54
+Modified: 2019-06-15 23:24:32
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,33 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 08 | Saturday June 15,2019 ##
+### Days Progress ###
+* Started after a gap of 1 cheat day.
+* List was the focus today.
+	- list can be created using `[]` or `list()`
+	- list is a ordered collection.
+	- list is a heterogeneous collection.
+	- list elements can be accessed using index start at `0`
+* List has 1 efficient way of declaring.
+
+```python
+names = [
+    "XXX",
+    "YYY",
+    "ZZZ",  # unlike json, we can have comma at the last element, 
+  			# it helps with git diff
+]
+```
+![Multi Line list declaration.]({filename}../../../images/100DaysOfCode/list_01.png "Multi Line list declaration.")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 07 | Thursday June 13,2019 ##
 ### Days Progress ###
 * Function scope is little confusing without practice.
@@ -48,7 +75,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1139222966279892992)
 
 ---
 ## Day 06 | Wednesday June 12,2019 ##
