@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-15 23:24:32
+Modified: 2019-06-16 22:33:27
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,19 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 09 | Sunday June 16,2019 ##
+### Days Progress ###
+* Understood the list's sort and the built-in sorted function.
+* `sorted()` returns a list
+* `list.sort()` or `list.reverse()` returns `None`
+
+![sorted() and built-in sort ]({filename}../../../images/100DaysOfCode/list_02.png "sorted() and built-in sort")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 08 | Saturday June 15,2019 ##
 ### Days Progress ###
 * Started after a gap of 1 cheat day.
@@ -56,7 +69,7 @@ names = [
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1139956001749123072)
 
 
 ---
