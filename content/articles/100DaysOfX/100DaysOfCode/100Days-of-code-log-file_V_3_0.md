@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-16 22:33:27
+Modified: 2019-06-17 22:16:30
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,28 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 10 | Monday June 17,2019 ##
+### Days Progress ###
+* Established some basic understanding on list operations
+* Operations to add item to the list.
+	- `append()`: add an item to end of the list.
+	- `insert(2, "bbbb")`: insert at an index.
+	- `extend()`: concatenates two list.
+* Operation on list look-up, which is very slow, almost linear.
+	- `index(value)`: returns first index of value
+		+ `ValueError:` if the value is not present in list.
+	- `count(value)`: returns the no of times a value is present.
+		+ return's `0` is the value is not present.
+* Operation to remove item from list.
+	- `remove(value)`: removes the value from the list, if not present does not throw error.
+	- `pop()`: remove and returns the last element of the list or the index.
+* List are heterogeneous.
+
+
+![Heterogeneous list. ]({filename}../../../images/100DaysOfCode/list_03.png "Heterogeneous list.")
+
+
+---
 ## Day 09 | Sunday June 16,2019 ##
 ### Days Progress ###
 * Understood the list's sort and the built-in sorted function.
@@ -44,7 +66,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1140304997944401920)
 
 ---
 ## Day 08 | Saturday June 15,2019 ##
