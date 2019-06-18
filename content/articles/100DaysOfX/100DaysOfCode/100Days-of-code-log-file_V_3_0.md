@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-17 22:16:30
+Modified: 2019-06-18 22:40:45
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,30 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 11 | Tuesday June 18,2019 ##
+### Days Progress ###
+* Explored the different ways to create a `tuple`
+	- Create a empty tuple.
+		+ `a = tuple()` 
+		+ `b = ()`
+	- Create a single item tuple.
+		+ `a = (1,)` and not
+		+ `a = (1)`
+	- Brackets are not mandatory for tuple.
+		+ `b = 1, 2, 3, 4, 5`
+	- indexing in tuple, same as list.
+		+ `b[0]`
+
+
+![tuple creation ]({filename}../../../images/100DaysOfCode/tuple_01.png "tuple creation")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 10 | Monday June 17,2019 ##
 ### Days Progress ###
 * Established some basic understanding on list operations
@@ -54,6 +78,9 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ![Heterogeneous list. ]({filename}../../../images/100DaysOfCode/list_03.png "Heterogeneous list.")
 
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1140663343528599554)
 
 ---
 ## Day 09 | Sunday June 16,2019 ##
