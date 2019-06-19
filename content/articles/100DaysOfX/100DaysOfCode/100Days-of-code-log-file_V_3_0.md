@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-18 22:40:45
+Modified: 2019-06-19 22:49:38
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,26 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 12 | Wednesday June 19,2019 ##
+### Days Progress ###
+* Understood the basic premise around sets.
+	- Empty sets can only be created using `set()` function, empty `{}` creates a dict.
+	- Sets stores only immutable data type which can give a `hash()` value.
+		+ `a = {"a", (1, 2, 3), [1, 2, 3]}` `  # TypeError: unhashable type: 'list'`
+	- Sets are used to remove duplicates from List.
+	- Sets searching is very fast.
+	- Sets do not have a indexing order.
+
+
+![set creation ]({filename}../../../images/100DaysOfCode/set_01.png "Set creation")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 11 | Tuesday June 18,2019 ##
 ### Days Progress ###
 * Explored the different ways to create a `tuple`
@@ -53,7 +73,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1141031483282317312)
 
 
 ---
