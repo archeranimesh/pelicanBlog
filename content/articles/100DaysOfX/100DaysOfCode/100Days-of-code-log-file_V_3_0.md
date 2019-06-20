@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-19 22:49:38
+Modified: 2019-06-20 22:31:45
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,21 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 13 | Thursday June 20,2019 ##
+### Days Progress ###
+* Updated my RAM with set operation for CRUD.
+	- `add()` - Adds item to the set.
+	- `discard()` - Removes item from the set, if not present, gives no error.
+	- `remove()` - Removes item from the set, if not present. gives `KeyError`.
+	- `update()` - Adds item from a sequence into a set.
+
+![set crud ]({filename}../../../images/100DaysOfCode/set_02.png "Set CRUD")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 12 | Wednesday June 19,2019 ##
 ### Days Progress ###
 * Understood the basic premise around sets.
@@ -49,7 +64,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1141395988881367040)
 
 
 ---
