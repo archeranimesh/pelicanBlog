@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-20 22:31:45
+Modified: 2019-06-22 23:31:50
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 14 | Saturday June 22,2019 ##
+### Days Progress ###
+* Important set operation.
+	- `union()` or `|` : Returns the union of two sets.
+	- `intersection()` or `&`: Returns the intersection of two sets.
+	- `difference()` or `-`: present in 1 set but not in other.
+
+![set Operation ]({filename}../../../images/100DaysOfCode/set_03.png "Set Operation")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+
+---
+
 ## Day 13 | Thursday June 20,2019 ##
 ### Days Progress ###
 * Updated my RAM with set operation for CRUD.
@@ -46,7 +63,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1141757313604173824)
 
 ---
 ## Day 12 | Wednesday June 19,2019 ##
