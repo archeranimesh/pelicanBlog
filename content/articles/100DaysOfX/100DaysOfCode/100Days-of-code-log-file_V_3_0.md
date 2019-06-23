@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-22 23:31:50
+Modified: 2019-06-23 22:15:26
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,25 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 15 | Sunday June 23,2019 ##
+### Days Progress ###
+* Started learning about dictionaries.
+* Dictionaries store `key:value` pair.
+* Dictionaries are mutable but the `keys` are immutable.
+* The search is very fast, just like `sets`.
+* Retrieve the value with index as the `key`  `a["one"]`
+* `get()` method can be used when we do not want an error while retrieving a value.
+	- Its returns a default value if the key is not present.
+
+
+![Dictionaries Basics ]({filename}../../../images/100DaysOfCode/dict_01.png "Dictionaries Basics")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 14 | Saturday June 22,2019 ##
 ### Days Progress ###
 * Important set operation.
@@ -45,7 +64,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1142493860150439936)
 
 
 
