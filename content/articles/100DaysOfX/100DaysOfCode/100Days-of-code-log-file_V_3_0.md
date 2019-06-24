@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-23 22:15:26
+Modified: 2019-06-24 23:01:38
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,29 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 16 | Monday June 24,2019 ##
+### Days Progress ###
+* Adding/Accessing dictionary elements.
+	- add new key/Value pair.	`nums["four"] = 4`
+	- There are no duplicate key in Dictionaries.
+	- If new value is assigned to same key, it will override the old value.
+	- Existence of a key in Dictionaries. `"one" in nums`
+	- `.update()`: Combine two list.
+	- 3 important functions on Dictionaries
+		+ `.keys()`: returns special list called dict keys
+		+ `.values()`: returns a special list called dict values
+		+ `.item()`: returns a list of tuple, called dict items
+
+
+![Dictionaries Operation ]({filename}../../../images/100DaysOfCode/dict_02.png "Dictionaries Operation")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
+
 ## Day 15 | Sunday June 23,2019 ##
 ### Days Progress ###
 * Started learning about dictionaries.
@@ -50,7 +73,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1142836839323095040)
 
 ---
 ## Day 14 | Saturday June 22,2019 ##
