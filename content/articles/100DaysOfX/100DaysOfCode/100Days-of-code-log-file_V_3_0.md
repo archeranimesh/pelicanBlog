@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-24 23:01:38
+Modified: 2019-06-25 23:08:16
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 17 | Tuesday June 25,2019 ##
+
+### Days Progress ###
+* Finally crossed the last attempts days.
+* Learned about mutability.
+* Basic data type are immutable.
+	*  `int`, `float`, `decimal`, `str`, `bool`
++  Containers data type are divided
+	*  `list`, `set`, `dict` are mutable
+	*  `tuple` is immutable.
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
 ## Day 16 | Monday June 24,2019 ##
 ### Days Progress ###
 * Adding/Accessing dictionary elements.
@@ -53,7 +70,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1143211092597825536)
 
 ---
 
