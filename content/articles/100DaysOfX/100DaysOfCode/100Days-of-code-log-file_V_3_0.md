@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-25 23:08:16
+Modified: 2019-06-26 22:57:19
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,23 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 18 | Wednesday June 26,2019 ##
+### Days Progress ###
+* Learned about the list slice.
+	- `my_list[0:3` : Returns 0 - 2nd index
+	- `my_list[:]` : clone the entire list.
+	- `my_list[-1]` : Special way to get the last item.
+
+
+![List Slice. ]({filename}../../../images/100DaysOfCode/list_04.png "List Slice")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
 ## Day 17 | Tuesday June 25,2019 ##
 
 ### Days Progress ###
