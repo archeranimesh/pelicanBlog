@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-26 22:57:19
+Modified: 2019-06-28 22:54:24
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,29 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 19 | Friday June 28,2019 ##
+### Days Progress ###
+* What are the truthiness of various data types.
+	- integers:
+		+ `0` is `False`
+		+ any other number is `True`
+	- Collections:
+		+ Empty list, tuple, Dictionary, sets are `False`
+		+ Non Empty collections are `True`
+	- Strings:
+		+ Empty String is `False`
+		+ Non Empty String are `True`.
+	- `None` is `False`
+
+
+![Booleans truthiness. ]({filename}../../../images/100DaysOfCode/Booleans_01.png "Booleans truthiness")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
+
 ## Day 18 | Wednesday June 26,2019 ##
 ### Days Progress ###
 * Learned about the list slice.
@@ -47,7 +70,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1143935174394015744)
 
 
 ---
@@ -64,7 +87,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1143575190632194049)
 
 
 ---
