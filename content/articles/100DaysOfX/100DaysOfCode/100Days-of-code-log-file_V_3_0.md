@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-28 22:54:24
+Modified: 2019-06-30 22:53:43
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,29 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 20 | Sunday June 30,2019 ##
+### Days Progress ###
+* Comparison operators in Python.
+	- `<` : Less than
+	- `>` : greater than
+	- `<=` : less than equal to
+	- `>=` : greater than equal to
+	- `==` : equal to
+	- `!=` : Not equal to
+	- `is` : Identity, when both object points to same.
+* Strings are compared based on their ASCII value.
+	- The capital letters are smaller than small letters.
+
+
+![Comparison Operator. ]({filename}../../../images/100DaysOfCode/Booleans_02.png "Comparison Operator")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
+
 ## Day 19 | Friday June 28,2019 ##
 ### Days Progress ###
 * What are the truthiness of various data types.
@@ -53,7 +76,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1144659185348431872)
 
 ---
 
