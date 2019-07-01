@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-06-30 22:53:43
+Modified: 2019-07-01 22:45:33
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -31,6 +31,37 @@ There are learning from the previous failure, here are the modification which wa
 * Complete first 21 Days first.
 
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
+
+---
+
+## Day 21 | Monday July 1,2019 ##
+### Days Progress ###
+* I have reached that day, where it is said, 21 days is required minimum to form a habit.
+	- Hope this habit stays with me.
+* Learning continued on `and`, `or`, and `not` operator.
+* It was an eye opener.
+* `and` and `or` returns the value of one of the expression and not `True` or `False`
+* `and`
+	- It returns the value of 2nd operand if the first operand is `True` else value of first.
+
+![and Operator. ]({filename}../../../images/100DaysOfCode/and.png "and Operator")
+
+
+* `or`
+	- It returns the value of 1st operand if it evaluates to `True`, else value of second.
+
+![or Operator. ]({filename}../../../images/100DaysOfCode/or.png "or Operator")
+
+* `not`
+	- Returns the inverse of the operator.
+
+
+![not Operator. ]({filename}../../../images/100DaysOfCode/not.png "not Operator")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
 
 ---
 
