@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-01 22:45:33
+Modified: 2019-07-03 22:58:41
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,26 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 22 | Wednesday July 3,2019 ##
+### Days Progress ###
+* Mostly improved the understanding of loops with list and range function.
+* `for` loops create a temporary variable which is in scope outside of `for` loop.
+* `range()`  is a good function for looping, it has 3 variant.
+	- `range(5)` : default, creates the number from 0 to 4
+	- `range(1,5)` : start and end index, creates the number from 1 to 4, 5 non inclusive.
+	- `range(1,5,2)` : the 3rd argument is `steps`, will step those many numbers.
+	- It does not take any Keyword arguments.
+
+![list loop. ]({filename}../../../images/100DaysOfCode/list_loop.png "list loop")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+
+---
 ## Day 21 | Monday July 1,2019 ##
 ### Days Progress ###
 * I have reached that day, where it is said, 21 days is required minimum to form a habit.
@@ -61,7 +81,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1145744575375409152)
 
 ---
 
