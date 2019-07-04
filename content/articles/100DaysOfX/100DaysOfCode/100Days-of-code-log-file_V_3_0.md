@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-03 22:58:41
+Modified: 2019-07-04 22:41:21
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -33,6 +33,23 @@ There are learning from the previous failure, here are the modification which wa
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
 ---
+## Day 23 | Thursday July 4,2019 ##
+### Days Progress ###
+* Continuing the process of learning loop, understood about looping with `dict`
+* There are mainly 3 looping with `dict`
+	- `.key()` - this is default, so do not have to specify in `for` loop.
+	- `.items()` - returns a tuple of key, value pair.
+	- `.values()` - returns only the values in `dict`.
+	- `.enumerate(.items())` - gives, index and a tuple of key value.
+
+![dict loop. ]({filename}../../../images/100DaysOfCode/dict_loop.png "dict loop")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 
 ## Day 22 | Wednesday July 3,2019 ##
 ### Days Progress ###
@@ -49,7 +66,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1146472085671124992)
 
 
 
