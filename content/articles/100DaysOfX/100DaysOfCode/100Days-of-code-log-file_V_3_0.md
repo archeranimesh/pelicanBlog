@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-04 22:41:21
+Modified: 2019-07-05 22:37:12
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -33,6 +33,23 @@ There are learning from the previous failure, here are the modification which wa
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
 ---
+
+## Day 24 | Friday July 5,2019 ##
+### Days Progress ###
+* Today's learning was mostly on the Control flow.
+* We have different variant of `if` condition.
+	- `if`
+	- `if-else`
+	- `if-elif-else`
+* We can also check truthiness.
+
+![if statement. ]({filename}../../../images/100DaysOfCode/if_01.png "if statement")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 23 | Thursday July 4,2019 ##
 ### Days Progress ###
 * Continuing the process of learning loop, understood about looping with `dict`
@@ -47,7 +64,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1146829703782625281)
 
 ---
 
