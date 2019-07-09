@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-05 22:37:12
+Modified: 2019-07-09 22:22:04
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,28 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 25 | Tuesday July 9,2019 ##
+### Days Progress ###
+* `while` loop is used to iterate over numbers in place of sequence.
+	- Also when we are not sure about the no of iteration
+* `break`: 
+	- It stops the execution of loop, and jumps to end of loop.
+	- If present in nested loop, it breaks the loop it is present in.
+* `continue`:
+	- It stops the loop execution and jump to start of the loop.
+* `return`: 
+	- It also return the loop control to outside of the loop.
+
+
+![break, continue and return statement. ]({filename}../../../images/100DaysOfCode/break_01.png "break, continue and return statement")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 24 | Friday July 5,2019 ##
 ### Days Progress ###
 * Today's learning was mostly on the Control flow.
@@ -47,7 +69,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1147190975795646464)
 
 ---
 ## Day 23 | Thursday July 4,2019 ##
