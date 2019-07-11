@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-10 23:10:22
+Modified: 2019-07-11 23:20:39
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,13 +34,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 27 | Thursday July 11,2019 ##
+### Days Progress ###
+* `__name__` is a nice way to put code when we want to execute as a script.
+	- The above code is not invoked when called as a library.
+* `try/except` is a great way to catch error's in code, and give alternate execution path.
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 26 | Wednesday July 10,2019 ##
 ### Days Progress ###
 * Mostly learned about python file's and debugging techniques.
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1149011262996660225)
 
 ---
 ## Day 25 | Tuesday July 9,2019 ##
