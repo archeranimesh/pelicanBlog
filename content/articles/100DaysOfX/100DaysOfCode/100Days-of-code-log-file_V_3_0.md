@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-11 23:20:39
+Modified: 2019-07-12 23:39:57
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,29 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 28 | Friday July 12,2019 ##
+### Days Progress ###
+* learned mostly about `requests` library.
+* 4 HTTP methods
+	- `GET`
+	- `POST`
+	- `PUT`
+	- `DELETE`
+* HTTP code
+	- `1XX` : Information
+	- `2XX` : Success
+	- `3XX` : Redirection
+	- `4XX` : Client error
+	- `5XX` : Server error
+
+
+![Shibe URL for dogs ]({filename}../../../images/100DaysOfCode/dog_01.png "Shibe URL for dogs")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
 ## Day 27 | Thursday July 11,2019 ##
 ### Days Progress ###
 * `__name__` is a nice way to put code when we want to execute as a script.
@@ -42,7 +65,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1149376500728078336)
 
 ---
 ## Day 26 | Wednesday July 10,2019 ##
