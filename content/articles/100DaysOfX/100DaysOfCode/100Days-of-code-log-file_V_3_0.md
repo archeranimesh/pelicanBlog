@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-12 23:39:57
+Modified: 2019-07-13 23:21:20
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,21 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 29 | Saturday July 13,2019 ##
+### Days Progress ###
+* Worked on the Github Api Project using these concepts.
+	- `requests`
+	- `exceptions`
+	- `APIs`
+	- Query Parameters.
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+---
+
 ## Day 28 | Friday July 12,2019 ##
 ### Days Progress ###
 * learned mostly about `requests` library.
@@ -54,7 +69,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1149743435944824832)
 
 ---
 ## Day 27 | Thursday July 11,2019 ##
