@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-13 23:21:20
+Modified: 2019-07-16 22:52:51
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,29 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 30 | Tuesday July16,2019 ##
+### Days Progress ###
+* There are various type conversion which we can use.
+	- `split()` : convert string to a list.
+	- `join()` : convert a list to string. `",".join(my_list)`
+	- tuple unpacking can also be used when using `.split()`
+* Learned about list comprehensions.
+	- `[num**2 for num in numbers]` : list of square of numbers.
+		+ We right the square brackets first
+		+ Followed by the `for` loop.
+		+ The variable used in the `for` loop is available to the left of loop, `num`
+		+ Apply mapping on the variable left of `for` loop.
+	- We can combine with `tuple` and `f` strings to get more valuable information.
+
+![List comprehensions ]({filename}../../../images/100DaysOfCode/list_comp_01.png "List comprehensions")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
+* [Link to tweet](#)
+
+
+
+---
 ## Day 29 | Saturday July 13,2019 ##
 ### Days Progress ###
 * Worked on the Github Api Project using these concepts.
@@ -45,7 +68,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1150102077391036422)
 
 ---
 
