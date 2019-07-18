@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-16 22:52:51
+Modified: 2019-07-18 22:58:13
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,26 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 31 | Thursday July 18,2019 ##
+### Days Progress ###
+* Continued with List comprehensions.
+* We can use conditionals in list comprehension to filter values.
+	- `[num**2 for num in numbers if num %2 == 0]`
+		+ The conditional comes at the end.
+		+ This conditional works as a filter.
+* We have 3 ways to use List comprehensions.
+	- Map - All values are used
+	- Filter - Some values are used
+	- Map/Filter - Some values filtered and then modified.
+
+![List comprehensions ]({filename}../../../images/100DaysOfCode/list_comp_02.png "List comprehensions")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
 ## Day 30 | Tuesday July16,2019 ##
 ### Days Progress ###
 * There are various type conversion which we can use.
@@ -51,8 +71,8 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 ![List comprehensions ]({filename}../../../images/100DaysOfCode/list_comp_01.png "List comprehensions")
 
 ### Thoughts ###
-* [My Github Url](https://github.com/archeranimesh/pythonFundamentals)
-* [Link to tweet](#)
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1151181246510161920)
 
 
 
