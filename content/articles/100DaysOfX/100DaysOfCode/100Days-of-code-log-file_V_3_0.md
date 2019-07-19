@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-18 22:58:13
+Modified: 2019-07-19 23:15:01
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 32 | Friday July 19,2019 ##
+### Days Progress ###
+* Built-in function which works on the `list`
+	- `sum()` : returns the sum of a list
+	- `min()` : returns the smallest element in the list.
+	- `max()` : returns the biggest element in the list.
+	- `sorted()` : returns a sorted list.
+		+ `reverse=True` as a default argument will reverse the list.
+
+
+![List comprehensions ]({filename}../../../images/100DaysOfCode/list_comp_03.png "List comprehensions")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+---
+
 ## Day 31 | Thursday July 18,2019 ##
 ### Days Progress ###
 * Continued with List comprehensions.
@@ -50,7 +68,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1151907365383360512)
 
 
 ---
