@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-19 23:15:01
+Modified: 2019-07-22 23:11:14
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,22 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 33 | Monday July 22,2019 ##
+### Days Progress ###
+* The `set` and `dict` comprehensions are very similar in syntax.
+	- `set` comprehensions.
+		+ `{num * num for num in range(11)}`
+	- `dict` comprehensions.
+		+ `{num: num * num for num in range(11)}`
+
+![Set comprehensions ]({filename}../../../images/100DaysOfCode/set_comp_01.png "Set comprehensions")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+---
+
 ## Day 32 | Friday July 19,2019 ##
 ### Days Progress ###
 * Built-in function which works on the `list`
@@ -48,7 +64,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1152274282329735168)
 
 ---
 
