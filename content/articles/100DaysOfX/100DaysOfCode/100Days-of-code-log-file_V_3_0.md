@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-22 23:11:14
+Modified: 2019-07-23 22:48:12
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -33,7 +33,27 @@ There are learning from the previous failure, here are the modification which wa
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
 ---
+## Day 34 | Tuesday July 23,2019 ##
+### Days Progress ###
+* Today is the day, when I am more confused than aware.
+* There is no tuple comprehension in python, but there are Generator expressions.
+* Generator expressions are created with this syntax.
+	- `(num * num for num in range(11))`
+		+ Ideally we expect it to be a tuple comprehension, but it is a generator object.
+* Generator expressions are a memory efficient way of creating a big list.
+* We cannot index on the generator object, gives a `TypeError`.
+* `next()` and `for/each` can be used to iterate over a generator.
 
+![Generator comprehensions ]({filename}../../../images/100DaysOfCode/generator_comp_01.png "Generator comprehensions")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* References.
+	- [Generator Unpacking ](https://stackoverflow.com/questions/51811061/can-i-turn-a-generator-object-into-a-tuple-without-using-tuple/51811147#51811147)
+	- [Why is there no tuple comprehension in Python?](https://stackoverflow.com/questions/16940293/why-is-there-no-tuple-comprehension-in-python)
+* [Link to tweet](#)
+
+---
 ## Day 33 | Monday July 22,2019 ##
 ### Days Progress ###
 * The `set` and `dict` comprehensions are very similar in syntax.
@@ -41,12 +61,13 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 		+ `{num * num for num in range(11)}`
 	- `dict` comprehensions.
 		+ `{num: num * num for num in range(11)}`
+* Both `set` and `dict` comprehensions are not ordered.
 
 ![Set comprehensions ]({filename}../../../images/100DaysOfCode/set_comp_01.png "Set comprehensions")
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1153360497732751360)
 
 ---
 
