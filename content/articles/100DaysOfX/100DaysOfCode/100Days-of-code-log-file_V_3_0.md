@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-23 22:48:12
+Modified: 2019-07-24 23:05:36
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -33,6 +33,29 @@ There are learning from the previous failure, here are the modification which wa
 Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](https://twitter.com/animeshkbhadra "Twitter Handle")
 
 ---
+
+## Day 35 | Wednesday July 24,2019 ##
+### Days Progress ###
+* Enhanced the learning of list slice.
+* Simple index gives an element of the list.
+* The slice has the following format.
+	- `[1:3]` : the index will start from 1, ends at 3 - 1 = 2
+		+ No of elements will be 3 - 1 = 2
+* Slice also supports negative index.
+	- `-1` : give the last element
+	- `-len(list)` : gives the first element
+* Slice also has 3rd index, which is `step`.
+	- `[::2]` : skips 2 elements.
+	- `[::-1]` : short cut to reverse a list.
+
+![List Slice ]({filename}../../../images/100DaysOfCode/list_slice_01.png "List Slice")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
 ## Day 34 | Tuesday July 23,2019 ##
 ### Days Progress ###
 * Today is the day, when I am more confused than aware.
@@ -51,7 +74,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 * References.
 	- [Generator Unpacking ](https://stackoverflow.com/questions/51811061/can-i-turn-a-generator-object-into-a-tuple-without-using-tuple/51811147#51811147)
 	- [Why is there no tuple comprehension in Python?](https://stackoverflow.com/questions/16940293/why-is-there-no-tuple-comprehension-in-python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1153716904554463232)
 
 ---
 ## Day 33 | Monday July 22,2019 ##
