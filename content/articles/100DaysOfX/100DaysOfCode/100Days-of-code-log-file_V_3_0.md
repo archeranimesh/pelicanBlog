@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-24 23:05:36
+Modified: 2019-07-25 23:11:03
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,25 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 36 | Thursday July 25,2019 ##
+### Days Progress ###
+* `.items()` on a `dict()` returns a list of tuples.
+* A list of tuples can also be converted back to a dictionary.
+* `zip()` function combines two lists into a list of tuples.
+	- `for` loop can be used to iterate over a `zip` function.
+	- Using `zip()` on asymmetrical list will create a list of tuples with the least no of elements common in the list.
+	- `dict(zip(list1, list2))` : converts a list of tuple back to a dictionary.
+
+
+![Zip Function ]({filename}../../../images/100DaysOfCode/zip_01.png "zip function")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 35 | Wednesday July 24,2019 ##
 ### Days Progress ###
 * Enhanced the learning of list slice.
@@ -52,7 +71,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1154083653133074437)
 
 
 ---
