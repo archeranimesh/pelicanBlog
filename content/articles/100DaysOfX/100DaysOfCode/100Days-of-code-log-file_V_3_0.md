@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-25 23:11:03
+Modified: 2019-07-26 23:52:59
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,27 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 37 | Friday July 26,2019 ##
+### Days Progress ###
+* OOPs concept.
+* Everything is an object in Python.
+* Class is template, blue print of a object.
+* Instance is a specific creation of a class.
+* We can have both
+	- Class Variables
+		+ Accessed by class.
+	- Instance Variable
+		+ Accessed by instance of a class.
+* `self` is a special name given to a instance in python.
+
+![Class ]({filename}../../../images/100DaysOfCode/class_01.png "Class")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
 ## Day 36 | Thursday July 25,2019 ##
 ### Days Progress ###
 * `.items()` on a `dict()` returns a list of tuples.
