@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-26 23:52:59
+Modified: 2019-07-27 23:07:13
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 38 | Saturday July 27,2019 ##
+
+* The journey into object oriented programming with python.
+* Python has no protection of its class variables for modification unlike Java.
+* `__init__(self) `
+	- It is special function which python calls under the hood when initializing a object.
+	- It takes `self` by default.
+
+
+![dunder init ]({filename}../../../images/100DaysOfCode/init_01.png "dunder init")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 37 | Friday July 26,2019 ##
 ### Days Progress ###
 * OOPs concept.
@@ -51,7 +69,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1154961918638997506?s=20)
 
 
 ---
@@ -69,7 +87,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1154448076569903104?s=20)
 
 
 ---
