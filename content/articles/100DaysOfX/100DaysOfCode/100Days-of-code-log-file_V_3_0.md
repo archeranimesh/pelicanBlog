@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-27 23:07:13
+Modified: 2019-07-28 21:47:05
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,8 +34,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
-## Day 38 | Saturday July 27,2019 ##
+## Day 39 | Sunday July 28,2019 ##
+### Days Progress ###
+* Class methods are unique methods, which operates on class variables.
+* `@classmethod` : a special decorator to create a class method.
+* Class methods take `cls` as argument and not `self`.
+* The instance object can access the class methods, since it is aware of their existence.
 
+
+![Class Method ]({filename}../../../images/100DaysOfCode/class_method_01.png "Class Method")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+## Day 38 | Saturday July 27,2019 ##
+### Days Progress ###
 * The journey into object oriented programming with python.
 * Python has no protection of its class variables for modification unlike Java.
 * `__init__(self) `
@@ -47,7 +63,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1155323021835374592?s=20)
 
 
 ---
