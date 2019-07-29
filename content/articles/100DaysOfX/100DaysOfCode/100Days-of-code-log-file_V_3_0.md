@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-28 21:47:05
+Modified: 2019-07-29 22:24:59
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,32 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 40 | Monday July 29,2019 ##
+### Days Progress ###
+* `isinstance()` : 
+	- returns `True` if an object is an instance of a class.
+* `issubclass()` :
+	- returns `True` is an object is a subclass of a class.
+	- `bool` is a subclass and instance of `int`
+	- `object` is the parent class of all object.
+* `any()` :
+	- returns `True`, if any value in the collection is True.
+* `all()` :
+	- returns `True`, if all the value in the collection is True.
+* `bool` : 
+	- `bool` being a subclass of `int`, we have some weird combination, which we can try.
+		+ `True + True` : 2
+		+ `{0,1, True, False}`: returns `{0, 1}`
+
+
+![Class isinstance and isSubclass ]({filename}../../../images/100DaysOfCode/class_02.png "Class isinstance and isSubclass")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+---
+
 ## Day 39 | Sunday July 28,2019 ##
 ### Days Progress ###
 * Class methods are unique methods, which operates on class variables.
@@ -46,7 +72,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1155513534962266113?s=20)
 
 
 ---
