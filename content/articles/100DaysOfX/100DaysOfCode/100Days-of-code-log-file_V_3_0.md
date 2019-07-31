@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-07-29 22:24:59
+Modified: 2019-07-31 23:20:17
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,24 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 41 | Wednesday July 31,2019 ##
+### Days Progress ###
+* `str()`:
+	- On our raw object, is we use `str()` it gives a completely non-relevant information.
+	- We can change this by overriding the `__str__()` method in our class.
+* `repr()`:
+	- Its informs a way of creation of the object.
+	- We can override `__repr__` method in our class for this information.
+
+![__str__ and __repr__ ]({filename}../../../images/100DaysOfCode/class_03.png "__str__ and __repr__")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 40 | Monday July 29,2019 ##
 ### Days Progress ###
 * `isinstance()` : 
@@ -56,7 +74,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1155886130706780160?s=20)
 
 ---
 
