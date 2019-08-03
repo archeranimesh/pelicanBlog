@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-08-01 22:59:16
+Modified: 2019-08-05 22:35:40
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,19 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 43 | Monday August 5,2019 ##
+### Days Progress ###
+
+
+![inheritance ]({filename}../../../images/100DaysOfCode/class_04.png "inheritance")
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 42 | Thursday August 1,2019 ##
 ### Days Progress ###
 * Inheritance is the best way to share property and responsibility across the code.
@@ -46,7 +59,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1156981216337248256?s=20)
 
 
 ---
