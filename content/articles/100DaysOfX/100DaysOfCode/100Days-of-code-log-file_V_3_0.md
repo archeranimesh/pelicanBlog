@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-08-05 22:35:40
+Modified: 2019-08-05 23:13:23
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -36,9 +36,13 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ## Day 43 | Monday August 5,2019 ##
 ### Days Progress ###
+* Exception is a great way to make the application more robust.
+* `try/except` are the tools to catch exceptions.
+* `BaseException` is the base class of all exception which should never be caught in our code.
+* `Exception` is the exception class which needs to be caught.
+* `except` takes a tuple of exception.
 
-
-![inheritance ]({filename}../../../images/100DaysOfCode/class_04.png "inheritance")
+![Exception ]({filename}../../../images/100DaysOfCode/exception_01.png "Exception")
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
