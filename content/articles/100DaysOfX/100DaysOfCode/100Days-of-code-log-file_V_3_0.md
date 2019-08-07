@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-08-05 23:13:23
+Modified: 2019-08-07 22:44:52
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,28 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 44 | Wednesday August 7,2019 ##
+### Days Progress ###
+* Error Specificity
+	- The order of catching `Exception` should be from specific to general.
+	- The code should never be catching generic `Exception`.
+
+![error specificity ]({filename}../../../images/100DaysOfCode/exception_02.png "error specificity")
+
+* Custom Exceptions
+	- We can raise our custom exception by inheriting from base class `Exception`.
+	- The base `Exception` `__init__()` takes a custom message.
+	- `raise` is the keyword to raise the custom exception.
+
+![Custom Exceptions ]({filename}../../../images/100DaysOfCode/exception_03.png "Custom Exceptions")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
 ## Day 43 | Monday August 5,2019 ##
 ### Days Progress ###
 * Exception is a great way to make the application more robust.
@@ -46,7 +68,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1158434116884320257?s=20)
 
 
 ---
