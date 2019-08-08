@@ -1,6 +1,6 @@
 Title: 100Days of Code Log File 3rd Attempt
 Date: 2019-06-05 22:29:49
-Modified: 2019-08-07 22:44:52
+Modified: 2019-08-08 23:31:22
 Category: #100DaysOfCode, python
 Tags: #100DaysOfCode, #100DaysOfX, Python
 Slug: 100Days-of-code-log-file_V_3_0
@@ -34,6 +34,22 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ---
 
+## Day 45 | Thursday August 8,2019 ##
+### Days Progress ###
+* Always group the custom exceptions into a common module called exception in application.
+* The custom exception class name should always end with error or exception, signifying the purpose.
+
+
+![Custom Exceptions Application ]({filename}../../../images/100DaysOfCode/exception_04.png "Custom Exceptions Application.")
+
+
+### Thoughts ###
+* [My Github Url](https://github.com/archeranimesh/intermediate_python)
+* [Link to tweet](#)
+
+
+---
+
 ## Day 44 | Wednesday August 7,2019 ##
 ### Days Progress ###
 * Error Specificity
@@ -52,7 +68,7 @@ Ladies and gentleman, I present to you, #100DaysofCode with @ [animeshkbhadra ](
 
 ### Thoughts ###
 * [My Github Url](https://github.com/archeranimesh/intermediate_python)
-* [Link to tweet](#)
+* [Link to tweet](https://twitter.com/animeshkbhadra/status/1159152249085427712?s=20)
 
 
 ---
